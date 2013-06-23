@@ -25,7 +25,7 @@ h3 {
 	border-style: none;
 }
 
-p {
+p1 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	border: 1px #000000;
 	border-style: dotted;
@@ -42,14 +42,14 @@ img.medium {
 	height: 372px;
 }
 
-img {
+img. {
 	opacity: 0.70px;
 }
 
-isabella1.jpg img hover{
+img.hover{
 	opacity: 1px;
 }
 
-a {
+p {
 	text-alight: center;
 }

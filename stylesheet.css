@@ -1,9 +1,17 @@
 
-index.html h1 {
+body {
+	background-color:#CEF6F5
+	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+}
+h1 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-align: center top;
 	color: #000000;
+	
 }
-index.html body {
-	background-color:#CEF6F5
+isabella1.jpg {
+	opacity: 0.70px;
+}
+isabella1.jpg: hover{
+	opacity: 1px;
 }

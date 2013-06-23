@@ -32,13 +32,13 @@ p {
 	text-align: center;
 }
 
-img.displayed {
+img.center {
 	opacity: 0.70px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-img.displayed hover{
+img.center hover{
 	opacity: 1px;
 }
 

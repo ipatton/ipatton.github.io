@@ -42,15 +42,15 @@ img.medium {
 	height: 372px;
 }
 
-img. {
+img.background {
 	opacity: 0.70px;
 }
 
-img.hover{
+img: hover{
 	opacity: 1px;
 }
 
-a {
+a.button {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-alight: center;
 }

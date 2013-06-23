@@ -32,16 +32,17 @@ p {
 	text-align: center;
 }
 
-img.center {
+.isabella1.jpg img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-img {
+.isabella1.jpg img {
 	opacity: 0.70px;
 }
-img hover{
+
+.isabella1.jpg img hover{
 	opacity: 1px;
 }
 

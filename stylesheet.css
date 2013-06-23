@@ -42,11 +42,11 @@ img.medium {
 	height: 372px;
 }
 
-figure {
+img.opacity {
 	opacity: 0.70px;
 }
 
-figure hover{
+img.hover{
 	opacity: 1px;
 }
 

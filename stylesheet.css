@@ -25,18 +25,19 @@ h3 {
 	border-style: none;
 }
 
-p {
+section {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	border: 1px #000000;
 	border-style: dotted;
 }
 
-img: {
+img {
 	opacity: 0.70px;
 	vertical-align: middle;
+	horizontal-align: middle;
 
 }
 
-img: hover{
+img hover{
 	opacity: 1px;
 }

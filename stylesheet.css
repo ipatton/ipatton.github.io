@@ -42,11 +42,11 @@ img.medium {
 	height: 372px;
 }
 
-img.background {
+#img {
 	opacity: 0.70px;
 }
 
-img: hover{
+#img hover{
 	opacity: 1px;
 }
 

@@ -25,7 +25,7 @@ h3 {
 	border-style: none;
 }
 
-p1 {
+p {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	border: 1px #000000;
 	border-style: dotted;
@@ -50,6 +50,7 @@ img.hover{
 	opacity: 1px;
 }
 
-p {
+a {
+	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-alight: center;
 }

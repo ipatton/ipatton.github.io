@@ -23,9 +23,18 @@ h3 {
 	color: #084B8A;
 }
 
-#img: {
-	opacity: 0.70px;
+p {
+	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+	border: 1px #000000;
+	border-style: dotted;
 }
-#img: hover{
+
+img: {
+	opacity: 0.70px;
+	vertical-align: middle;
+
+}
+
+img: hover{
 	opacity: 1px;
 }

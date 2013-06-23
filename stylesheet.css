@@ -15,12 +15,14 @@ h2 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-align: center;
 	color: #58ACFA;
+	border-style: none;
 }
 
 h3 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-align: center;
 	color: #084B8A;
+	border-style: none;
 }
 
 p {

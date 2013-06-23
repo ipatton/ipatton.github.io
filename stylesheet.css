@@ -7,19 +7,20 @@ h1 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-align: center; 
 	color: #000000;
+	border: 2px solid #000000;
 	
 }
 
 h2 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-align: center;
-	color: #CEF6F5;
+	color: #58ACFA;
 }
 
 h3 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-align: center;
-	color: #CEF6F5;
+	color: #084B8A;
 }
 
 #img: {

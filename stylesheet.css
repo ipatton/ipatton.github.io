@@ -1,6 +1,6 @@
 
 body {
-	background-color:#CEF6F5;
+	background-color: #CEF6F5;
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 }
 h1 {
@@ -42,11 +42,11 @@ img.medium {
 	height: 372px;
 }
 
-img.opacity {
+img.face {
 	opacity: 0.70px;
 }
 
-img.hover{
+img.face: hover{
 	opacity: 1px;
 }
 

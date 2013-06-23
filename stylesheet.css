@@ -5,13 +5,13 @@ body {
 }
 h1 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
-	text-align: center top;
+	text-align: center;
 	color: #000000;
 	
 }
-isabella1.jpg {
+img"isabella1.jpg": {
 	opacity: 0.70px;
 }
-isabella1.jpg: hover{
+img"isabella1.jpg": hover{
 	opacity: 1px;
 }

@@ -50,7 +50,12 @@ img: hover{
 	opacity: 1px;
 }
 
-a.button {
+a.twitter {
+	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+	text-alight: center;
+}
+
+a.mail {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-alight: center;
 }

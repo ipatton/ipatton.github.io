@@ -32,13 +32,13 @@ p {
 	text-align: center;
 }
 
-isabella1.jpg img {
+img.align-center {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-isabella1.jpg img {
+img {
 	opacity: 0.70px;
 }
 

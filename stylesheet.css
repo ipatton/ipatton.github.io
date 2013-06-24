@@ -1,8 +1,8 @@
 
 html {
-	background-image: url(winter_trees.jpg);
+	background-color: #FAFAFA; 
 	background-repeat: no-repeat;
-	background-position: 90%;
+	background-position: 100%;
 }
 
 @font-face {
@@ -11,6 +11,7 @@ html {
 
 a:link {
 	color: #08088A;
+	text-decoration: none;
 }
 
 a:visited {
@@ -28,34 +29,57 @@ body {
 h1 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-align: center; 
+	font-style: bold;
 	color: #000000;
-	border: 2px solid #000000;
+	text-size: 100px;
 }
 
 h2 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
-	text-align: right;
+	text-align: center;
 	color: #08088A; 
 	border: none;
-	margin: 50px 50px 0px 0px;
+	margin: 20px 100px 0px 100px;
 }
 
 h3 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
-	text-align: right;
+	text-align: center;
 	color: #08088A; 
 	border: none;
 }
 
+#bracket-left, #bracket-right {
+	font-size: 120px;
+	line-height: 120px;
+	height: 120px;
+	display: block;
+	text-align: baseline;
+	color: #ddd;
+	margin-top: 8px;
+}
+
+#bracket-left {
+	float: left;
+	margin-left: 120px;
+	margin-top: -105px;
+}
+
+#bracket-right {
+	float: right;
+	margin-right: 120px;
+	margin-top: -105px;
+}
+
 #aboutme {
-	width: 250px;
+	width: 350px;
 	float: right;
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	border: medium dotted #000000;
 	padding: 20px 20px 20px 20px;
 	text-align: center;
 	display: inline;
-	margin: 50px 400px 0px 425px;
+	margin: 10px 350px 0px 390px;
 	background-color: inherit;
 	font: 20 bold;
 }
@@ -63,7 +87,10 @@ h3 {
 
 #face {
 	margin: 60px 800px 0px 50px;
-	opacity: 1;
+	-webkit-border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	border-radius: 5px;
+	opacity: .7;
 }
 
 img.medium {

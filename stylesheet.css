@@ -57,7 +57,7 @@ h3 {
 	display: inline;
 	margin: 50px 400px 0px 425px;
 	background: transparent;
-	font-size: bold;
+	font-size: 20 bold;
 }
 
 
@@ -80,11 +80,11 @@ img.medium {
 	
 }
 
-a.twitter-timeline {
+.twitter-timeline {
 	width: 200px;
 	float: right;
-	margin: 0px 30px 0px 30px;
-	display: inline;
+	margin: 0px 70px 0px 30px;
+	align: right;
 }
 
 #mail {

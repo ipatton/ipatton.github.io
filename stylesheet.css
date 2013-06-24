@@ -56,13 +56,13 @@ h3 {
 	text-align: center;
 	display: inline;
 	margin: 50px 400px 0px 425px;
-	background: transparent;
-	font-size: 20 bold;
+	background-color: inherit;
+	font: 20 bold;
 }
 
 
 #face {
-	margin: 0px 800px 0px 50px;
+	margin: 50px 800px 0px 50px;
 	opacity: 1;
 }
 

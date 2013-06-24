@@ -7,6 +7,8 @@ html {
 
 @font-face {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+	font-weight: normal;
+	font-style: normal;
 }
 
 a:link {
@@ -19,19 +21,28 @@ a:visited {
 }
 
 a:hover {
-	color: #EFFBFB;
+	color: #87CEEB;
 }
 
 body {
+	width: 1024px;
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	opacity: 1;
 }
+
+header {
+	height: 70px;
+}
+
 h1 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+	font-weight: normal;
 	text-align: center; 
 	font-style: bold;
 	color: #000000;
 	font-size: 350%;
+	float: left;
+	margin-top: 10px;
 }
 
 h2 {
@@ -39,8 +50,18 @@ h2 {
 	text-align: center;
 	color: #08088A; 
 	border: none;
-	margin: 0px 300px 0px 300px;
-	font-size: 25px;
+	margin: 20px 0 15px 0;
+	font-size: 150%;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
 }
 
 h3 {
@@ -48,13 +69,14 @@ h3 {
 	text-align: center;
 	color: #08088A; 
 	border: none;
+	margin: 20px 0 15px 0;
 	font-size: 15px;
 }
 
 #bracket-left, #bracket-right {
 	font-size: 120px;
-	line-height: 60px;
-	height: 60px;
+	line-height: 50px;
+	height: 50px;
 	display: block;
 	text-align: baseline;
 	color: #ddd;
@@ -63,35 +85,54 @@ h3 {
 
 #bracket-left {
 	float: left;
-	margin-left: 200px;
-	margin-top: -105px;
+	margin-left: 80px;
+	margin-top: -80px;
 }
 
 #bracket-right {
 	float: right;
-	margin-right: 200px;
-	margin-top: -105px;
+	margin-right: 80px;
+	margin-top: -80px;
+}
+
+header ul li {
+	float: right;
+	padding-left: 30px;
+	margin-top: 44px;
+	font-size: 20px;
+}
+
+footer ul li {
+	float: left;
+	padding-right: 30px;
+	margin: 10px 0 0 0px;
+	font-size: 20px;
 }
 
 #aboutme {
 	width: 350px;
-	float: right;
+	float: center;
+	overflow: hidden;
+	clear: both;
+	display: block;
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	-webkit-border: medium dotted #000000;
 	-moz-border: medium dotted #000000;
+	-o-border: medium dotted #000000;
 	border: medium dotted #000000;
 	padding: 20px 20px 20px 20px;
 	text-align: center;
 	display: inline;
-	margin: 10px 350px 0px 425px;
 	background-color: inherit;
 	font: 20 bold;
 }
 
-
 #face {
 	opacity: .7;
-	margin: 60px 800px 0px 50px;
+	clear: both;
+	float: center;
+	overflow: hidden;
+	display: block;
 	-webkit-border-radius: 5px; 
 	-moz-border-radius: 5px; 
 	border-radius: 5px;	
@@ -110,21 +151,27 @@ img.medium {
 	transition: opacity .2s ease-in-out;
 }
 
+aside {
+	float: right;
+	margin-top: 30px;
+}
+
 .twitter-timeline {
 	width: 200px;
-	float: right;
-	margin: 0px 70px 0px 30px;
-	align: right;
+	clear: both;
+	margin: 20px 70px 0px 30px;
+
 }
 
-#mail {
-	text-align: left;
-	margin: 0px 0px 0px 80px;
+#content {
+	margin-bottom: 20px;
+	overflow: hidden;
+	clear: both;
 }
 
-#twitter {
-	text-align: left;
-	margin: 0px 0px 0px 110px;
+section {
+	width: 55%;
+	float: left;
 }
 
 

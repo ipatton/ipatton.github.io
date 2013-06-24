@@ -99,7 +99,7 @@ img.medium {
 }
 
 #face:hover {
-	opacity: 1;
+	opacity: .8;
 	-webkit-transition: opacity .2s ease-in-out;
 	-moz-transition: opacity .2s ease-in-out;
 	-o-transition: opacity .2s ease-in-out;

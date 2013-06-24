@@ -100,7 +100,7 @@ img.medium {
 	height: 372px;
 }
 
-#face img.picture:hover {
+#face:hover {
 	opacity: .8;
 	-webkit-transition: opacity .2s ease-in-out;
 	-moz-transition: opacity .2s ease-in-out;

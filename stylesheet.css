@@ -77,6 +77,8 @@ h3 {
 	width: 350px;
 	float: right;
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+	-webkit-border: medium dotted #000000;
+	-moz-border: medium dotted #000000;
 	border: medium dotted #000000;
 	padding: 20px 20px 20px 20px;
 	text-align: center;

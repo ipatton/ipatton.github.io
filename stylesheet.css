@@ -130,7 +130,7 @@ footer ul li {
 #face {
 	opacity: .7;
 	clear: both;
-	float: center;
+	float: right;
 	overflow: hidden;
 	display: block;
 	-webkit-border-radius: 5px; 

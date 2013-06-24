@@ -31,7 +31,7 @@ h1 {
 	text-align: center; 
 	font-style: bold;
 	color: #000000;
-	text-size: 100px;
+	font-size: 350%;
 }
 
 h2 {
@@ -39,7 +39,8 @@ h2 {
 	text-align: center;
 	color: #08088A; 
 	border: none;
-	margin: 20px 100px 0px 100px;
+	margin: 0px 300px 0px 300px;
+	font-size: 25px;
 }
 
 h3 {
@@ -47,27 +48,28 @@ h3 {
 	text-align: center;
 	color: #08088A; 
 	border: none;
+	font-size: 15px;
 }
 
 #bracket-left, #bracket-right {
 	font-size: 120px;
-	line-height: 120px;
-	height: 120px;
+	line-height: 60px;
+	height: 60px;
 	display: block;
 	text-align: baseline;
 	color: #ddd;
-	margin-top: 8px;
+	margin-top: 10px;
 }
 
 #bracket-left {
 	float: left;
-	margin-left: 120px;
+	margin-left: 200px;
 	margin-top: -105px;
 }
 
 #bracket-right {
 	float: right;
-	margin-right: 120px;
+	margin-right: 200px;
 	margin-top: -105px;
 }
 
@@ -104,7 +106,14 @@ img.medium {
 	-moz-transition: opacity .2s ease-in-out;
 	-o-transition: opacity .2s ease-in-out;
 	transition: opacity .2s ease-in-out;
-	
+}
+
+#aboutme:hover {
+	opacity: .8;
+	-webkit-transition: opacity .2s ease-in-out;
+	-moz-transition: opacity .2s ease-in-out;
+	-o-transition: opacity .2s ease-in-out;
+	transition: opacity .2s ease-in-out;
 }
 
 .twitter-timeline {

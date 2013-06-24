@@ -1,40 +1,69 @@
 
-body {
-	background-color: #CEF6F5;
+html {
+	background-image: url(winter_trees.jpg);
+	background-repeat: no-repeat;
+	background-position: 90%;
+}
+
+@font-face {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+}
+
+a:link {
+	color: #08088A;
+}
+
+a:visited {
+	color: #08088A;
+}
+
+a:hover {
+	color: #EFFBFB;
+}
+
+body {
+	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+	opacity: 1;
 }
 h1 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-align: center; 
 	color: #000000;
 	border: 2px solid #000000;
-	
 }
 
 h2 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
-	text-align: center;
+	text-align: right;
 	color: #08088A; 
-	border-style: none;
+	border: none;
+	margin: 50px 50px 0px 0px;
 }
 
 h3 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
-	text-align: center;
-	color: #084B8A;
-	border-style: none;
+	text-align: right;
+	color: #08088A; 
+	border: none;
 }
 
-p {
+#aboutme {
+	width: 250px;
+	float: right;
 	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
-	border: 1px #000000;
-	border-style: dotted;
+	border: medium dotted #000000;
+	padding: 20px 20px 20px 20px;
 	text-align: center;
+	display: inline;
+	margin: 50px 400px 0px 425px;
+	background: transparent;
+	font-size: bold;
 }
 
-img.align-center {
-	display: block;
-	margin: 0px auto;
+
+#face {
+	margin: 0px 800px 0px 50px;
+	opacity: 1;
 }
 
 img.medium {
@@ -42,20 +71,30 @@ img.medium {
 	height: 372px;
 }
 
-img.face {
-	opacity: 0.70px;
+#face:hover {
+	opacity: 1;
+	-webkit-transition: opacity .2s ease-in-out;
+	-moz-transition: opacity .2s ease-in-out;
+	-o-transition: opacity .2s ease-in-out;
+	transition: opacity .2s ease-in-out;
+	
 }
 
-img.face: hover{
-	opacity: 1px;
+a.twitter-timeline {
+	width: 200px;
+	float: right;
+	margin: 0px 30px 0px 30px;
+	display: inline;
 }
 
-a.twitter {
-	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
-	text-align: center;
+#mail {
+	text-align: left;
+	margin: 0px 0px 0px 80px;
 }
 
-a.mail {
-	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
-	text-align: center;
+#twitter {
+	text-align: left;
+	margin: 0px 0px 0px 110px;
 }
+
+

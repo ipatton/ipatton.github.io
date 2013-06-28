@@ -149,6 +149,7 @@ img.medium {
 	-moz-transition: opacity .2s ease-in-out;
 	-o-transition: opacity .2s ease-in-out;
 	transition: opacity .2s ease-in-out;
+	color: #ADD8E6;
 }
 
 aside {

@@ -55,7 +55,12 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 @font-face {
-    font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+	font-family: "Junction";
+	src: url("Fonts/Junction/webfonts/Junction-webfont.ttf");
+	src: url("Fonts/Junction/webfonts/Junction-webfont.eot"),
+		 url("Fonts/Junction/webfonts/Junction-webfont.svg"),
+		 url("Fonts/Junction/webfonts/Junction-webfont.ttf"),
+		 url("Fonts/Junction/webfonts/Junction-webfont.woff");
     font-weight: normal;
     font-style: normal;
 }
@@ -71,9 +76,9 @@ header {
 }
 
 #bracket-left, #bracket-right {
-	font-size: 80px;
-	line-height: 100px;
-	height: 50px;
+	font-size: 110px;
+	line-height: 60px;
+	height: 80px;
 	display: block;
 	text-align: baseline;
 	color: #ddd;
@@ -82,31 +87,42 @@ header {
 
 #bracket-left {
 	float: left;
-	margin-left: 80px;
+	margin-left: 20%;
 	margin-top: -80px;
 }
 
 #bracket-right {
 	float: right;
-	margin-right: 80px;
+	margin-right: 20%;
 	margin-top: -80px;
 }
 
 p {
-	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	font-size:17px;
 	line-height:1.3em;
-	margin-top: .75em;
+	margin-top: 2em;
 	-webkit-border: medium dotted #000000;
 	-moz-border: medium dotted #000000;
 	-o-border: medium dotted #000000;
 	border: medium dotted #000000;
+	border-color: #ddd;
 	padding: 20px 20px 20px 20px;
 	text-align: center;
 }	
 
+a {
+	margin-top: 100px;
+	margin-left: 50%;
+	margin-right: 50%;
+	margin: auto;
+}
+
+section {
+	width: 55%;
+	margin: auto;
+}
+
 h1 { 
-	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	font-weight: normal;
     font-style: normal;
 	font-size:60px;
@@ -114,20 +130,23 @@ h1 {
    	margin-top: 10px;
 }
 
-h2{ font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
+h2{
 	font-size:24px;
-   	margin: 20px 0 15px 0;
+	margin: 20px 0 15px 0;
    	text-align: center; 
-   	color: #ADD8E6;
-   	font-weight: bold; 
+   	color: #00008B;
+   	font-weight: bold;
+   	margin-left: 25%;
+	margin-right: 25%; 
 }
 
 h3 {
-	font-family: "Bodoni MT", Didot, "Didot LT STD", Garamond;
 	text-align: center;
-	color: #ADD8E6;
+	color: #4682B4;
 	border: none;
 	font-size: 20px;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 
 li {
@@ -141,6 +160,14 @@ a {
 }
 
 a:hover {
+	color: #4682B4;
+}
+
+#lab {
+	color: #00008B;
+}
+
+#lab:hover {
 	color: #4682B4;
 }
 
@@ -162,17 +189,6 @@ footer ul li {
 	margin-bottom: 20px;
 	clear: both; 
 	overflow: hidden;
-}
-
-section {
-	width:55%;
-	float: left;
-}
-
-section p {
-	margin-top:50px;
-	float: center;
-
 }
 
 aside {

@@ -1,0 +1,2443 @@
+
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">
+
+	<title>The Top 75 Must-Read Online Marketing Blogs | Unbounce</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="y_key" content="b02ab0eab9737cd5" />
+	<meta property="fb:admins" content="679650046" />
+	<link rel="stylesheet" type="text/css" href="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/style.css?1372098838" />
+	
+
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.3.4.4 - http://yoast.com/wordpress/seo/ -->
+<meta name="description" content="The top online marketing blogs are collected all in one place, nicely categorized to cover content marketing, optimization, testing, and more!"/>
+<link rel="canonical" href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/" />
+<meta property='og:locale' content='en_US'/>
+<meta property='og:title' content='The Top 75 Must-Read Online Marketing Blogs'/>
+<meta property='og:description' content='The top online marketing blogs are collected all in one place, nicely categorized to cover content marketing, optimization, testing, and more!'/>
+<meta property='og:url' content='http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/'/>
+<meta property='og:site_name' content='Unbounce'/>
+<meta property='og:type' content='article'/>
+<meta property='og:image' content='http://unbounce.com/photos/fat-rss.png'/>
+<meta property='og:image' content='http://unbounce.com/photos/all-in-one-marketing-blogs.jpg'/>
+<meta property='og:image' content='http://unbounce.com/photos/analytics-marketing-blogs.jpg'/>
+<meta property='og:image' content='http://unbounce.com/photos/Bathroom-Blogger.jpg'/>
+<meta property='og:image' content='http://unbounce.com/photos/Shakespeare-copywriting-content-blogs1.jpg'/>
+<meta property='og:image' content='http://unbounce.com/photos/cro-boss1.png'/>
+<meta property='og:image' content='http://unbounce.com/photos/email-marketing-blogs.jpg'/>
+<meta property='og:image' content='http://unbounce.com/photos/interview-marketing-blogs1.jpg'/>
+<meta property='og:image' content='http://unbounce.com/photos/seo-blogs.jpg'/>
+<meta property='og:image' content='http://unbounce.com/photos/like-a-boss.jpg'/>
+<meta property='og:image' content='http://unbounce.com/photos/Web-Blogs.png'/>
+<meta property='og:image' content='http://unbounce.com/wp-content/themes/unbounce2/images/unbounce-blog-footer-cta.png'/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='stylesheet' id='jquery.fancybox-css'  href='http://unbounce.wpengine.netdna-cdn.com/wp-content/plugins/fancy-box/jquery.fancybox.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css'  href='http://unbounce.wpengine.netdna-cdn.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.4' type='text/css' media='screen' />
+<script type='text/javascript' src='http://unbounce.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://unbounce.wpengine.netdna-cdn.com/wp-content/plugins/fancy-box/jquery.fancybox.js?ver=1.2.6'></script>
+<script type='text/javascript' src='http://unbounce.wpengine.netdna-cdn.com/wp-content/plugins/fancy-box/jquery.easing.js?ver=1.3'></script>
+<script type='text/javascript' src='http://unbounce.wpengine.netdna-cdn.com/wp-content/plugins/strx-magic-floating-sidebar-maker/js/debounce.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://unbounce.wpengine.netdna-cdn.com/wp-content/plugins/strx-magic-floating-sidebar-maker/js/strx-magic-floating-sidebar-maker.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://unbounce.wpengine.netdna-cdn.com/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=1.1'></script>
+<script type='text/javascript' src='http://unbounce.wpengine.netdna-cdn.com/wp-includes/js/comment-reply.min.js?ver=3.5.2'></script>
+<link rel='shortlink' href='http://unbounce.com/?p=15075' />
+<script type="text/javascript">
+jQuery(document).ready(function($){
+//  var select = $('a[href$=".bmp"],a[href$=".gif"],a[href$=".jpg"],a[href$=".jpeg"],a[href$=".png"],a[href$=".BMP"],a[href$=".GIF"],a[href$=".JPG"],a[href$=".JPEG"],a[href$=".PNG"]');
+  //select.attr('rel', 'fancybox');
+  //select.fancybox();
+
+$('a[href$=".bmp"],a[href$=".gif"],a[href$=".jpg"],a[href$=".jpeg"],a[href$=".png"],a[href$=".BMP"],a[href$=".GIF"],a[href$=".JPG"],a[href$=".JPEG"],a[href$=".PNG"]').not('.nofancybox').attr('rel', 'fancybox').fancybox();
+
+});
+</script>
+<!-- HeadSpace SEO 3.6.41 by John Godley - urbangiraffe.com -->
+<meta name="description" content="The top online marketing blogs are collected all in one place, nicely categorized to cover content marketing, optimization, testing, and more!" />
+<!-- HeadSpace -->
+<meta name="robots" content="index, follow" />
+<link rel="alternate" type="application/rss+xml" title="Unbounce Latest Posts RSS Feed" href="http://feeds.feedburner.com/unbounce" />
+<link rel="alternate" type="application/rss+xml" title="Unbounce Latest Comments RSS Feed" href="http://unbounce.com/comments/feed/" />
+<!-- Vipers Video Quicktags v6.4.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://unbounce.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://assets.unbounce.com/s/javascripts/jquery/jquery.cookie.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://assets.unbounce.com/s/javascripts/cookie_storage.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/js/jquery/jquery.qtip.js"></script>
+	<script type="text/javascript" src="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/js/custom.js?v27"></script>
+	<link href="https://plus.google.com/108308137946313926397" rel="publisher" />
+	<link href="https://plus.google.com/108308137946313926397" rel="author" />
+	<script src="//cdn.optimizely.com/js/4431002.js"></script>
+
+
+		<!--
+	FANCYBOX
+	Launch a url in an overlay by including classes "iframe" and "fancybox" on the link -->
+	<link rel="stylesheet" href="http://assets.unbounce.com/s/stylesheets/jquery.fancybox.css" type="text/css" />
+	<script src="http://assets.unbounce.com/s/javascripts/jquery/jquery.mousewheel.js" type="text/javascript" charset="utf-8"></script>
+  <script src="http://assets.unbounce.com/s/javascripts/jquery/jquery.fancybox.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+  jQuery(function() {
+    if (jQuery("a.fancybox.iframe").length) {
+      jQuery("a.fancybox.iframe").fancybox({
+        'width'           : '85%',
+        'height'          : '85%',
+        'autoScale'       : true,
+        'transitionIn'    : 'elastic',
+        'transitionOut'   : 'fade',
+        'type'        : 'iframe'
+      });
+    }
+    if (jQuery("a.fancybox.iframeinfo").length) {
+      jQuery("a.fancybox.iframeinfo").fancybox({
+        'width'           : 980,
+        'height'          : '95%',
+        'autoScale'       : true,
+        'transitionIn'    : 'elastic',
+        'transitionOut'   : 'fade',
+        'type'        : 'iframe'
+      });
+    }
+
+    if (jQuery("a.fancybox.bundle").length) {
+      jQuery("a.fancybox.bundle").fancybox({
+        'width'           : 920,
+        'height'          : '95%',
+        'autoScale'       : true,
+        'transitionIn'    : 'elastic',
+        'transitionOut'   : 'fade',
+        'type'        : 'iframe',
+        'hideOnOverlayClick' 	: true
+      });
+    }
+    
+    if (jQuery("a.fancybox.blogsignup").length) {
+      jQuery("a.fancybox.blogsignup").fancybox({
+        'width'           : 960,
+        'height'          : 820,
+        'autoScale'       : true,
+        'transitionIn'    : 'elastic',
+        'transitionOut'   : 'fade',
+        'type'        : 'iframe',
+        'hideOnOverlayClick' 	: true
+      });
+    }
+  });
+
+
+  </script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1">
+
+
+<!--  TYPEKIT  -->
+<script type="text/javascript" src="//use.typekit.net/kot3mtx.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!--  /TYPEKIT -->
+
+<style type="text/css">
+#blog_page a {
+	background:#121212;
+  	color:#fff;
+  	-moz-border-radius:5px;
+  	-webkit-border-radius:5px;
+  	border-radius:5px;
+}
+</style>
+
+
+
+	<link rel="shortcut icon" type="image/x-icon" href="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/favicon.ico?v2" />
+	<link rel="icon" type="image/x-icon" href="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/favicon.ico?v2" />
+	<link rel="pingback" href="http://unbounce.com/xmlrpc.php" />
+	
+
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/css/ie.css" />
+	<![endif]-->
+	<meta name="google-site-verification" content="yYF5vg3S9gVTmvhJgCapFNz8xPtnUcLxfu2v95x6FjU" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-10210606-1']);
+_gaq.push(['_setDomainName', '.unbounce.com']);
+_gaq.push(['_addIgnoredRef', '.unbounce.com']);
+_gaq.push(['_trackPageview']);
+
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+
+
+
+
+
+<body>
+<!-- Qualaroo for unbounce.com -->
+<!-- Paste this code right after the <body> tag on every page of your site. -->
+<script type="text/javascript">var _kiq = _kiq || [];</script>
+<script type="text/javascript" src="//s3.amazonaws.com/j.kissinsights.com/u/4551/e43a279874c7a119fcd6d77bb0a01a3cbd99d670.js" async="true"></script>
+
+<!-- Hello Bar -->
+<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
+
+<script type="text/javascript">
+       new HelloBar(17363,101560);
+</script>
+
+<div id="container-header">
+
+
+	<div id="header" class="clearfix">
+		<div id="logo"><a href="/" title="Unbounce.com Homepage"><img src="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/images/unbounce-logo-2012.png" alt="Unbounce logo" width="163" height="34"/></a></div>
+		<div id="usp">Build, Publish &amp; A/B Test Landing Pages Without IT</div>		<div id="login"><!--<a href="http://unbounce.com/support/getting-started/" style="text-transform:none !important;">Getting Started</a> &nbsp;|&nbsp; --> <a href="https://app.unbounce.com/" class="ga-oubound-link" title="App Login page" style="text-transform:none !important;">Log In</a> &nbsp;|&nbsp;  <a href="http://go.unbounce.com/pricing/" style="text-transform:none !important;">Sign Up</a></div>
+	</div>
+
+
+
+	<div id="promo-area">
+		<div id="promo-lighting" class="clearfix">
+			<div id="nav-stripe">
+				<div id="nav">
+		          <ul>
+		
+					<li id="features_page" class="page_item page-item-2000"><a href="http://unbounce.com/features/" title="Features">Features</a></li>
+					<li id="templates_page" class="page_item page-item-3938"><a href="http://unbounce.com/landing-page-templates/" title="Templates">Templates</a></li>
+					<li id="examples_page" class=""><a href="http://unbounce.com/landing-page-examples-built-with-unbounce/" title="Landing Page Examples">Landing Page Examples</a></li>
+					<li id="partners_page" class="page_item page-item-2086"><a href="http://unbounce.com/partners/" title="Partners">Partners</a></li>
+					<li id="resources_page" class="page_item "><a href="http://unbounce.com/resources/" title="Marketing Resources">Resources</a></li>
+					<li id="pricing_page" class="page_item page-item-2092"><a href="http://go.unbounce.com/pricing/" title="Pricing">Pricing</a></li>
+					<li id="blog_page" class="page_item page-item-43"><a href="http://unbounce.com/blog/" title="Blog">Blog</a></li>
+		          </ul>
+		          <div id="phone"><a href="/support/contact-us/">Contact Us</a> 1-888-515-9161</div>
+		        </div>
+			</div>
+
+
+
+
+
+			
+
+			 			
+
+
+		</div>
+	</div>
+
+</div>
+
+<div id="header-shadow"></div>
+
+
+<div class="clear"></div>
+
+<div id="container-content">
+
+<!-- Single Default -->
+
+<link rel="stylesheet" type="text/css" href="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/css/newdesign.css?32421" />
+
+<style>
+#mobile-nav {display:none; }
+#mobile-social {display:none;} 
+</style>
+
+<style type="text/css">
+@media screen and (max-device-width: 480px) {
+	#sidebar-blog { display: none; }
+	#social-sidebar { display: none; }
+	.w650 {width:480px !important;}
+	#blog-category-nav {display:none;}
+	#container-header {display:none;}
+	.content-area {
+		padding:0 20px !important;
+		background:none !important;
+		border:0 !important;
+	}
+	#container-content {margin-top:0px;}
+	#footer {display:none;}
+	#hellobar-pusher {display:none;}
+	#comment-box {width:auto !important;}
+	.email-subscribe {display:none;}
+	.blog-author-bio {display:none;}
+	#footer-cta {width:none;}
+	#main-container {width:480px;}
+	hr.newdesign {width:480px;}
+	#features-container {width:480px;}
+	#header-shadow {display:none;}
+	div.topright {background: none !important; padding:0px;}
+	div.topleft {background: none !important; padding:0px;}
+	div.bottomright {background: none !important; padding:0px;}
+	div.bottomleft {background: none !important; padding:0px;}
+	.box {margin:0;}
+	#mobile-nav {
+		display:block;
+		border:1px solid #ccc;
+		background: #ddd;
+		padding:10px 20px;
+		width:260px;
+		margin:20px 0px 0 40px;
+	}
+	#mobile-social {
+		display:block;
+		margin-top:10px;
+	} 
+	#commentform {
+		width:400px;
+	}
+	#comment {
+		width:400px;
+	}
+	.blog-post p {font-size:22px !important;padding-right:20px !important;}
+}
+
+@media screen and (max-width: 480px) {
+	.blog-photo {
+		width:90%;
+		/*width:auto;*/
+		border:0;
+	}
+	.blog-photo img {
+		max-width:100%;
+		height: auto;
+		/*height:100%;*/
+  	}
+  	#footer-cta img {
+  		width:90%;
+  		height:90%;
+  	}
+}
+</style>
+
+
+<!--<div class="blog-social-banner"><a href="http://try.unbounce.com/to-create-landing-pages/" title="Try a 30-day free trial - and see for yourself" target="_blank"><img src="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/images/blog-banners/Unbounce-Blog-TimeCampaign.png" alt="Try a 30-day free trial - and see for yourself" title="Try a 30-day free trial - and see for yourself" /></a></div>-->
+
+<div id="blog-category-nav">
+
+	
+	
+	<ul>
+		<li class=""><a href="/blog/">All</a></li>
+		
+				
+			<li class="cat-item cat-item-14"><a href="http://unbounce.com/landing-pages/" title="View all posts filed under Landing Pages">Landing Pages</a>
+</li>
+	<li class="cat-item cat-item-85"><a href="http://unbounce.com/landing-page-examples/" title="Landing pages templates that are design, tried and tested to convert. Create a campaign in minutes and start testing and optimizing your campaigns now.">Landing Page Examples</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="http://unbounce.com/conversion-rate-optimization/" title="View all posts filed under Conversion">Conversion</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://unbounce.com/social-media/" title="View all posts filed under Social Media">Social Media</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://unbounce.com/a-b-testing/" title="View all posts filed under A/B Testing">A/B Testing</a>
+</li>
+	<li class="cat-item cat-item-82"><a href="http://unbounce.com/ppc/" title="View all posts filed under PPC">PPC</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://unbounce.com/lead-generation/" title="View all posts filed under Lead Gen">Lead Gen</a>
+</li>
+	<li class="cat-item cat-item-118"><a href="http://unbounce.com/email-marketing/" title="View all posts filed under Email Marketing">Email Marketing</a>
+</li>
+	</ul>
+</div>
+<!--
+<div id="mobile-nav">
+	<a href="/blog/"><h4>Blog Home</h4></a>
+</div>
+-->
+
+<div id="blog-content">
+
+		
+	
+			<div class="box w650">
+			<div class="topleft">
+			<div class="topright">
+		    	<div class="content-area">
+	
+					<div class="blog-post">
+					
+						<h1><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/" rel="bookmark" title="Permanent Link to The Top 75 Must-Read Online Marketing Blogs">The Top 75 Must-Read Online Marketing Blogs</a></h1>
+	
+						
+											
+						<div class="meta">
+							By 
+							<span class="author"><a href="http://unbounce.com/author/kristi-hines/" title="Posts by Kristi Hines" rel="author">Kristi Hines</a></span>
+														<!--, <span class="date">April 28th, 2013</span>-->
+	                        in 
+	                        <span class="category"><a href="http://unbounce.com/online-marketing/" title="View all posts in Online Marketing" rel="category tag">Online Marketing</a></span>
+	                        |
+	                        <span class="category"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment">104 comments</a></span>
+	                        <div class="clear"></div>
+						</div>
+						
+												
+						
+
+						<div id="social-sidebar">
+						
+														
+								
+								<style>.tweetmeme_button {display:none !important;}</style>
+								<div class="twitter-tweet-button-single"><div id="tweetbutton15075m" class="tw_button" style=""><a href="http://twitter.com/share?url=http%3A%2F%2Fsu.pr%2F1a8FML&amp;via=unbounce&amp;text=The%20Top%2075%20Must-Read%20Online%20Marketing%20Blogs&amp;related=oligardner:Unbounce+Co-Founder+Marketing+Director+%26+Chief+Writer&amp;lang=en&amp;count=vertical&amp;counturl=http%3A%2F%2Funbounce.com%2Fonline-marketing%2F75-marketing-blogs-to-make-your-rss-reader-more-fat%2F" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://unbounce.wpengine.netdna-cdn.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div></div>
+														
+							
+							<div class="sphinn-button-single"><a href="http://bufferapp.com/add" class="buffer-add-button" data-count="vertical" data-via="unbounce" >Buffer</a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script>
+							</div>
+							
+														
+							<div class="plus-one-top-button"><g:plusone size="tall"></g:plusone></div>		
+							<!--<div class="delicious-top-button"></div>-->
+							
+							<div class="facebook-top-button"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Funbounce.com%2Fonline-marketing%2F75-marketing-blogs-to-make-your-rss-reader-more-fat%2F&amp;layout=box_count&amp;show_faces=false&amp;width=70&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:70px;"></iframe></div>
+							
+							<!-- LinkedIn: added April 24 -->
+							<div class="linkedin-social-button-side">
+								<script src="//platform.linkedin.com/in.js" type="text/javascript">
+								 lang: en_US
+								</script>
+								<script type="IN/Share" data-counter="top"></script>
+							</div>
+														<!--<div class="pinterest-top-button"><script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script></div>-->
+							
+
+
+												
+						
+							<!--<div class="linkedin-top-button"><script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-counter="top"></script></div>-->					
+												</div>
+
+						
+						<div style="margin-top:25px;"><img src="http://unbounce.com/photos/fat-rss.png" alt="75 top marketing blogs" width="557" height="459" class="alignnone size-full wp-image-15078" /></div>
+<div class="blog-post-annotation" style="margin-bottom:40px;"></div>
+<p>Last year, we compiled <a href="http://unbounce.com/online-marketing/epic-marketing-blogs/">75 Marketing Blogs</a> that covered conversion, content, email, paid search, SEO, analytics, blogging, and social media marketing. Of course, there are many more awesome blogs out there. So today, we&#8217;re going to expand that list and add 75 MORE must read blogs for you to consume that cover marketing and business inspiration!</p>
+<h2>All-in-One Marketing Blogs</h2>
+<div id="attachment_15083" class="wp-caption alignright" style="width: 260px"><img src="http://unbounce.com/photos/all-in-one-marketing-blogs.jpg" alt="all in one marketing blogs" width="250" height="122" class="size-full wp-image-15083" /><p class="wp-caption-text">Now this is all-in-one. And so are these blogs.</p></div>
+<ol start="1">
+<li> <a href="http://econsultancy.com/us/blog" target="_blank">Econsultancy Digital Marketing Blog</a> (<a href="http://econsultancy.com/us/blog.atom" target="_blank">RSS</a>) &#8211; Latest digital marketing and ecommerce insight, analysis and opinion from multi-award-winning team of analysts and experts. Read the blog and search press releases.</li>
+<li> <a href="http://www.unmarketing.com/" target="_blank">Unmarketing</a> (<a href="http://feeds.feedburner.com/unmarketing" target="_blank">RSS</a>) &#8211; UnMarketing by Scott Stratten is for those that believe business is built on relationships.</li>
+<li> <a href="http://heidicohen.com/" target="_blank">Heidi Cohen</a> (<a href="http://feeds.feedburner.com/HeidiCohen" target="_blank">RSS</a>) &#8211; Heidi Cohen’s blog provides marketing related insights, grounded in digital,  direct and social media marketing; served with a creative twist simplifies the complex concepts behind today’s evolving business challenges into an easy-to-understand format that facilitates readers’ grasp of new topics.</li>
+<li> <a href="http://www.getelastic.com/" target="_blank">GetElastic</a> (<a href="http://www.getelastic.com/feed/" target="_blank">RSS</a>) &#8211; #1 Subscribed Ecommerce Blog. Get Elastic blog is meant to share ecommerce best practices and better ways to manage the digital relationships. It covers mobile, search, social, and multichannel marketing.</li>
+<li> <a href="http://blogs.adobe.com/digitalmarketing/" target="_blank">Adobe Digital Marketing Blog</a> (<a href="http://blogs.adobe.com/digitalmarketing/feed/" target="_blank">RSS</a>) &#8211; Covers advertising, analytics, social media, targeting, mobile, and more.</li>
+<li> <a href="http://www.chrisducker.com/blog/" target="_blank">Chris Ducker</a> (<a href="http://www.chrisducker.com/feed/" target="_blank">RSS</a>) &#8211; Chris Ducker helps entrepreneurs catapult their small business into the 21st century by utilizing &#8216;New Business&#8217; marketing strategies such as blogging, online video, podcasting, outsourcing, social media and more!</li>
+<li> <a href="http://www.webpronews.com/" target="_blank">WebProNews</a> (<a href="http://www.webpronews.com/feed" target="_blank">RSS</a>) &#8211; Breaking news in tech, search, and social media. </li>
+<li> <a href="http://blog.marketo.com/" target="_blank">Marketo</a> (<a href="http://feeds.feedburner.com/modernb2bmarketing" target="_blank">RSS</a>) &#8211; Catch the latest trends and proven best practices in modern B2B marketing on the Marketo blog. </li>
+<li> <a href="http://b2bmarketinginsider.com/" target="_blank">B2B Marketing Insider</a> (<a href="http://feeds.feedburner.com/B2BMarketingInsider" target="_blank">RSS</a>) &#8211; B2B Marketing Insider by Michael Brenner discusses the latest on social business, content marketing, and more.</li>
+<li> <a href="http://www.business2community.com/" target="_blank">Business 2 Community</a> (<a href="http://feeds.feedburner.com/b2cmarketinginsider" target="_blank">RSS</a>) &#8211; An inside look at business news and trends focusing on Marketing, Strategy, Leadership, Branding, Public Relations, Technology, Social Media, Mobility, Media and Entertainment.</li>
+<li> <a href="http://digitalmarketer.com/" target="_blank">Digital Marketer</a> (<a href="http://feeds.feedburner.com/digitalmarketer/blog" target="_blank">RSS</a>) &#8211; Covers search, social, mobile, conversion, traffic, and ecommerce.</li>
+</ol>
+<h2>Analytics</h2>
+<div id="attachment_15084" class="wp-caption alignright" style="width: 310px"><img src="http://unbounce.com/photos/analytics-marketing-blogs.jpg" alt="analytic marketing blogs" width="300" height="210" class="size-full wp-image-15084" /><p class="wp-caption-text">Someone subscribe this girl to some analytics blogs. Stat.</p></div>
+<ol start="12">
+<li> <a href="http://www.kaushik.net/avinash/" target="_blank">Occam&#8217;s Razor</a> (<a href="http://feeds2.feedburner.com/OccamsRazorByAvinash" target="_blank">RSS</a>) &#8211; Avinash Kaushik is the author of Web Analytics 2.0 and Web Analytics: An Hour a Day. He is also the Co-Founder of Market Motive and the Digital Marketing Evangelist for Google. On this blog he presents ideas to empower companies to make evolutionary leaps in their digital strategies.</li>
+<li> <a href="http://www.eugenoprea.com/blog/" target="_blank">Eugen Oprea</a> (<a href="http://feeds.feedburner.com/eugenoprea" target="_blank">RSS</a>) &#8211; EugenOprea.com provides Web Analytics, WordPress, SEO and technology advice in general to help people build a remarkable presence online.</li>
+<li> <a href="http://www.annielytics.com/" target="_blank">Annielytics</a> (<a href="http://www.annielytics.com/feed/" target="_blank">RSS</a>) &#8211; This blog provides marketers with bite-size tips, strategies, tricks, and warnings in the pursuit of gathering and visualizing data. </li>
+<li> <a href="http://cutroni.com/blog/" target="_blank">Analytics Talk</a> (<a href="http://feeds.feedburner.com/analyticstalk" target="_blank">RSS</a>) &#8211; Digital analytics for businesses by Justin Cutroni.</li>
+</ol>
+<h2>Blogging</h2>
+<div id="attachment_15076" class="wp-caption alignright" style="width: 210px"><img src="http://unbounce.com/photos/Bathroom-Blogger.jpg" alt="Bathroom Blogger" width="200" height="215" class="size-full wp-image-15076" /><p class="wp-caption-text">You know your addicted to blogging when&#8230;</p></div>
+<ol start="16">
+<li> <a href="http://www.blogtyrant.com/" target="_blank">BlogTyrant</a> (<a href="http://www.blogtyrant.com/feed/" target="_blank">RSS</a>) &#8211; Blogging and online marketing advice.</li>
+<li> <a href="http://boostblogtraffic.com/" target="_blank">Boost Blog Traffic</a> (<a href="http://boostblogtraffic.com/feed/" target="_blank">RSS</a>) &#8211; Jon Morrow of Copyblogger teaches you how to get more readers, build your email list, become an authority in your niche — everything you need to get the attention you deserve.</li>
+<li> <a href="http://www.thesaleslion.com/" target="_blank">The Sales Lion</a> (<a href="http://feeds.feedburner.com/TheSalesLion" target="_blank">RSS</a>) &#8211; Inbound and content marketing, social media, and branding success for businesses by Marcus Sheridan.</li>
+<li> <a href="http://socialtriggers.com/" target="_blank">Social Triggers</a> (<a href="http://feeds.socialtriggers.com/SocialTriggers" target="_blank">RSS</a>) &#8211; Learn how to turn traffic into subscribers, persuade people to buy your products, and encourage people to share your content.</li>
+<li> <a href="http://www.sparringmind.com/" target="_blank">Sparring Mind</a> (<a href="http://www.sparringmind.com/feed/" target="_blank">RSS</a>) &#8211; Sparring Mind is a behavioral psychology blog that focuses on improving creative work and productive output.</li>
+<li> <a href="http://www.dailyblogtips.com/" target="_blank">Daily Blog Tips</a> (<a href="http://feeds2.feedburner.com/DailyBlogTips" target="_blank">RSS</a>) &#8211; Everything you need to know about blogging, Internet marketing, promotion, and more.</li>
+<li> <a href="http://www.trafficgenerationcafe.com/blog/" target="_blank">Traffic Generation Cafe</a> (<a href="http://www.trafficgenerationcafe.com/feed/" target="_blank">RSS</a>) &#8211; Want to increase website traffic? Join the cafe. No, really. Find current, tested, proven to work web traffic advice.</li>
+<li> <a href="http://www.becomeablogger.com/" target="_blank">Become a Blogger</a> (<a href="http://feeds.feedblitz.com/becomeablogger" target="_blank">RSS</a>) &#8211; An online community with the mission of helping as many people as possible, set up Authority Blogs and build successful businesses around their blogs.</li>
+<li> <a href="http://bloggingwithamy.com/" target="_blank">Blogging with Amy</a> (<a href="http://feeds.feedburner.com/BloggingWithAmy" target="_blank">RSS</a>) &#8211; Helping non-techy people start their own blogs or websites.</li>
+<li> <a href="http://kikolani.com/" target="_blank">Kikolani</a> (<a href="http://feeds.feedblitz.com/kikolani" target="_blank">RSS</a>) &#8211; Shameless plugin, I now, but Kikolani offers blog marketing and blogging tips for personal, professional, and business bloggers. Other topics include SEO and social media marketing.</li>
+</ol>
+<h2>Content &amp; Copywriting</h2>
+<div id="attachment_15086" class="wp-caption alignright" style="width: 210px"><img src="http://unbounce.com/photos/Shakespeare-copywriting-content-blogs1.jpg" alt="Shakespeare copywriting content blogs" width="200" height="237" class="size-full wp-image-15086" /><p class="wp-caption-text">Genius</p></div>
+<ol start="26">
+<li> <a href="http://contentverve.com/" target="_blank">ContentVerve</a> (<a href="http://feeds.feedburner.com/Contentverve" target="_blank">RSS</a>) &#8211; All about content, copy, and conversion.</li>
+<li> <a href="http://www.copypress.com/blog/" target="_blank">Copypressed</a> (<a href="http://www.copypress.com/blog/rss" target="_blank">RSS</a>) &#8211; Building brands one word at a time. Get quality content that helps drive SEO, conversions, revenue, and more!</li>
+<li> <a href="http://thecopybot.com/" target="_blank">The Copybot</a> (<a href="http://feeds.feedburner.com/thecopybot/feed" target="_blank">RSS</a>) &#8211; Essential web writing advice from the chief copywriter for Copyblogger, Demian Farnworth.</li>
+<li> <a href="http://www.seocopywriting.com/blog/" target="_blank">SEO Copywriting</a> (<a href="http://www.seocopywriting.com/feed/" target="_blank">RSS</a>) &#8211; How can SEO copywriting help your business? Discover actionable SEO copywriting tips, social media writing advice and strategies for creating great web copy.</li>
+<li> <a href="http://contently.com/blog/" target="_blank">The Content Strategist</a> (<a href="http://feeds.feedburner.com/AwesomeContent" target="_blank">RSS</a>) &#8211; The Content Strategist delivers daily insight into content trends and digital publishing best practices for media companies and marketers alike.</li>
+</ol>
+<h3>Video</h3>
+<p>Here&#8217;s a bonus blog:<br />
+<a href="http://www.vidyard.com/blog/" target="_blank">Vidyard Video Marketing Blog</a> (<a href="http://feeds.feedburner.com/Vidyard" target="_blank">RSS</a>) &#8211; Thought leadership, best practices, how-to&#8217;s, and analytics to help drive the ROI on your video content. </p>
+<h2>Conversion Rate Optimization</h2>
+<div id="attachment_15087" class="wp-caption alignright" style="width: 210px"><img src="http://unbounce.com/photos/cro-boss1.png" alt="cro-boss" width="200" height="236" class="size-full wp-image-15087" /><p class="wp-caption-text">If you feel like this guy when it comes to conversion, subscribe here</p></div>
+<ol start="31">
+<li> <a href="http://www.bryaneisenberg.com/" target="_blank">Bryan Eisenberg</a> (<a href="http://feeds.feedburner.com/BryanEisenberg" target="_blank">RSS</a>) &#8211; Bryan Eisenberg is the recognized authority and pioneer in online marketing, improving online conversion rates, persuasive content, and persona marketing.</li>
+<li> <a href="http://monetate.com/blog/" target="_blank">Monetate Blog</a> (<a href="http://monetate.com/feed" target="_blank">RSS</a>) &#8211; Expert advice and commentary on big data, analytics, segmentation, personalization, merchandising, website testing, marketing consistency, and more.</li>
+<li> <a href="http://conversionxl.com/blog/" target="_blank">ConversionXL</a> (<a href="http://feeds.feedburner.com/ConversionXL" target="_blank">RSS</a>) &#8211; Radically increase your conversion rate, one element at a time. Advice, tools, case studies and a library of actions you can take now. Run by Peep Laja.</li>
+<li> <a href="http://www.conversion-rate-experts.com/articles/" target="_blank">Conversion Rate Experts</a> (<a href="http://feeds.feedburner.com/ConversionRateExperts" target="_blank">RSS</a>) &#8211; Find out why the likes of Apple, Sony and Google turn to us when they need help increasing their website conversion rate.</li>
+<li> <a href="http://online-behavior.com/" target="_blank">Online Behavior</a> (<a href="http://feeds.feedburner.com/Online-Behavior" target="_blank">RSS</a>) &#8211; Covers targeting &amp; segmentation, website testing &amp; usability, and web analytics &amp; optimization.</li>
+<li> <a href="http://www.invesp.com/blog/" target="_blank">Invesp</a> (<a href="http://feeds2.feedburner.com/invesp" target="_blank">RSS</a>) &#8211; Read the Invesp blog: Your source for the latest information on conversion rate optimization.</li>
+<li> <a href="http://conversionscientist.com/" target="_blank">Conversion Scientist</a> (<a href="http://conversionscientist.com/feed/" target="_blank">RSS</a>) &#8211; To be successful, a Web site must convert traffic to leads and sales. To convert, a Web site must know who is coming and why they are there. The Conversion Scientist applies analytics, content, personas, layout, social media, marketing strategies and more to help make your Web site successful.</li>
+<li> <a href="http://www.conversionvoodoo.com/blog/" target="_blank">Conversion Voodoo</a> (<a href="http://feeds.feedburner.com/conversionvoodooblog" target="_blank">RSS</a>) &#8211; Covers conversion strategies, testing, landing page optimization, and mobile.</li>
+<li> <a href="http://www.proimpact7.com/ecommerce-blog/" target="_blank">Proimpact7</a> (<a href="http://feeds.feedburner.com/Proimpact7comE-commerceBlog" target="_blank">RSS</a>) &#8211; Conversion and analytics blog.</li>
+<li> <a href="http://www.usertesting.com/blog/" target="_blank">User Testing</a> (<a href="http://www.usertesting.com/feed/" target="_blank">RSS</a>) &#8211; Covers conversion tips for content, marketing, navigation, mobile, and more.</li>
+</ol>
+<h2>Email Marketing</h2>
+<div id="attachment_15079" class="wp-caption alignright" style="width: 210px"><img src="http://unbounce.com/photos/email-marketing-blogs.jpg" alt="email marketing blogs" width="200" height="146" class="size-full wp-image-15079" /><p class="wp-caption-text">If you&#8217;re in the same boat as my grandma above, it&#8217;s time you brush up on your email marketing with these blogs</p></div>
+<ol start="41">
+<li> <a href="http://blog.getresponse.com/" target="_blank">GetResponse</a> (<a href="http://blog.getresponse.com/feed" target="_blank">RSS</a>) &#8211; Email marketing tips blog.</li>
+<li> <a href="http://bronto.com/blog" target="_blank">Bronto</a> (<a href="http://feeds.feedburner.com/bronto/blog" target="_blank">RSS</a>) &#8211; Email, mobile, and social marketing insights from Bronto Software&#8217;s team of marketing strategists.</li>
+<li> <a href="http://blog.deliverability.com/" target="_blank">Deliverability</a> (<a href="http://blog.deliverability.com/feed" target="_blank">RSS</a>) &#8211; Covers authentication, deliverability, reputation, and other email marketing topics.</li>
+<li> <a href="http://www.retailemailblog.com/" target="_blank">Retail Email</a> (<a href="http://feeds2.feedburner.com/retailemailblogspot" target="_blank">RSS</a>) &#8211; The Retail Email Blog is your daily guide to what’s going on in the world of retail email marketing—as well as a powerful archive of creatives and tactics. </li>
+<li> <a href="http://www.b2bemailmarketing.com/" target="_blank"> Be Relevant! Email Marketing Blog</a> (<a href="http://feeds.feedburner.com/b2bemailmarketing" target="_blank">RSS</a>) &#8211; I read so you don&#8217;t have to &#8211; don&#8217;t have time to follow email marketing trends and best practices? Consider this blog to be your email marketing content curator.</li>
+</ol>
+<h2>Interviews</h2>
+<div id="attachment_15081" class="wp-caption alignright" style="width: 310px"><img src="http://unbounce.com/photos/interview-marketing-blogs1.jpg" alt="interview marketing blogs" width="300" height="229" class="size-full wp-image-15081" /><p class="wp-caption-text">King of the Jungle. King of all interview blogs.</p></div>
+<ol start="46">
+<li> <a href="http://www.entrepreneuronfire.com/" target="_blank">Entrepreneur on Fire</a> (<a href="http://www.entrepreneuronfire.com/feed/" target="_blank">RSS</a>) &#8211; EntrepreneurOnFire is a business podcast that interviews today&#8217;s most inspiring and successful Entrepreneurs 5-days a week. Past guests include Barbara Corcoran, Tim Ferriss, Seth Godin, Gary Vaynerchuk, and many others. </li>
+<li> <a href="http://blogcastfm.com/blog/" target="_blank">Blogcast FM</a> (<a href="http://blogcastfm.com/blogcastfm/feed/" target="_blank">RSS</a>) &#8211; BLOGCAST FM is the most prolific resource of interviews from successful and nationally known business owners, bloggers, online entrepreneurs, and published authors. </li>
+</ol>
+<h2>Search Engine Marketing &amp; Optimization</h2>
+<div id="attachment_15082" class="wp-caption alignright" style="width: 300px"><img src="http://unbounce.com/photos/seo-blogs.jpg" alt="seo blogs" width="290" height="178" class="size-full wp-image-15082" /><p class="wp-caption-text">Insert witty caption here</p></div>
+<ol start="48">
+<li> <a href="http://www.blindfiveyearold.com/" target="_blank">Blind Five Year Old</a> (<a href="http://feeds2.feedburner.com/BlindFiveYearOld" target="_blank">RSS</a>) &#8211; Blind Five Year Old is a San Francisco SEO and Internet Marketing consultancy and blog by AJ Kohn.</li>
+<li> <a href="http://www.internetmarketingninjas.com/blog/" target="_blank">Internet Marketing Ninjas</a> (<a href="http://feeds.feedburner.com/WeBuildPages" target="_blank">RSS</a>) &#8211; The latest SEO Industry news, notes, and chat.</li>
+<li> <a href="http://www.viperchill.com/" target="_blank">ViperChill</a> (<a href="http://feeds.feedburner.com/viperchill" target="_blank">RSS</a>) &#8211; ViperChill is a blog authored by Glen Allsopp which covers viral marketing, search engine optimization, and blogging advice.</li>
+<li> <a href="http://cognitiveseo.com/blog/" target="_blank">CognitiveSEO</a> (<a href="http://cognitiveseo.com/blog/feed/rss/" target="_blank">RSS</a>) &#8211; Learn how to benchmark and outrank your competitors with search and social media advice.</li>
+<li> <a href="http://www.seo.com/blog/" target="_blank">SEO.com</a> (<a href="http://www.seo.com/feed/" target="_blank">RSS</a>) &#8211; SEO.com discusses the latest SEO news, topics and events. SEO is always changing and evolving. To stay on top, you need to stay current. Join the discussion at SEO.com!</li>
+<li> <a href="http://www.matthewwoodward.co.uk/" target="_blank">Matthew Woodward</a> (<a href="http://www.matthewwoodward.co.uk/feed/" target="_blank">RSS</a>) &#8211; Matthew Woodward publishes high quality internet marketing and SEO tutorials. Learn over the shoulder of an established expert.</li>
+<li> <a href="http://www.distilled.net/blog/" target="_blank">Distilled</a> (<a href="http://feeds.distilled.net/distillednet/" target="_blank">RSS</a>) &#8211; Covers mostly SEO along with other mobile, marketing, and social topics.</li>
+<li> <a href="http://www.davidmihm.com/blog/" target="_blank">David Mihm</a> (<a href="http://feeds.feedburner.com/mihmorandum" target="_blank">RSS</a>) &#8211; Local SEO strategies, tactics, and musings. Not updated often, but great local marketing posts when it is.</li>
+<li> <a href="http://kaiserthesage.com/" target="_blank">Kaiser the Sage</a> (<a href="http://feeds.feedburner.com/Kaiserthesage" target="_blank">RSS</a>) &#8211; Journal of creative and scalable SEO, content marketing, social media and link development strategies based on ethical principles.</li>
+<li> <a href="http://pointblankseo.com/blog" target="_blank">PointBlank SEO</a> (<a href="http://pointblankseo.com/feed" target="_blank">RSS</a>) &#8211; Empowering ordinary marketers to build extraordinary links.</li>
+<li> <a href="http://www.portent.com/blog/" target="_blank">Portent</a> (<a href="http://feeds.feedburner.com/conversationmarketing/mrji" target="_blank">RSS</a>) &#8211; The Portent Interactive blog covers Internet marketing, SEO, PPC and random silliness.</li>
+<li> <a href="http://www.trada.com/blog/" target="_blank">Trada Blog</a> (<a href="http://www.trada.com/feed/" target="_blank">RSS</a>) &#8211; Learn more about the tricks of the trade, some of our community members and even some tips on how to run your own PPC campaigns all in one place.</li>
+<li> <a href="http://www.labnol.org/" target="_blank">Digital Inspiration</a> (<a href="http://feeds.labnol.org/labnol" target="_blank">RSS</a>) &#8211; Digital Inspiration is a popular how-to website that covers computer software, mobile apps, video tutorials and useful websites by Amit Agarwal.</li>
+</ol>
+<h2>Social Media Marketing</h2>
+<div id="attachment_15077" class="wp-caption alignright" style="width: 210px"><img src="http://unbounce.com/photos/like-a-boss.jpg" alt="Social Media Marketing Blogs Like A Boss" width="200" height="76" class="size-full wp-image-15077" /><p class="wp-caption-text">Social Media that. #likeaboss.</p></div>
+<ol start="61">
+<li> <a href="http://dannybrown.me/blog/" target="_blank">Danny Brown</a> (<a href="http://feeds.feedblitz.com/dannybrown" target="_blank">RSS</a>) &#8211; Danny Brown is a multiple award-winning marketer and blogger. His blog is recognized as one of the leading marketing blogs in the world.</li>
+<li> <a href="http://www.amyporterfield.com/" target="_blank">Amy Porterfield</a> (<a href="http://www.amyporterfield.com/feed/" target="_blank">RSS</a>) &#8211; Amy Portferfield is a social media strategist and trainer as well as the co-author of the Facebook Marketing All-in-One for Dummies.</li>
+<li> <a href="http://cognitiveseo.com/blog/feed/rss/" target="_blank">SocialMouths</a> (<a href="http://socialmouths.com/blog/feed/" target="_blank">RSS</a>) &#8211; Kick-ass social media advice for the real entrepreneur. </li>
+<li> <a href="http://www.hyperarts.com/blog/" target="_blank">HyperArts</a> (<a href="http://www.hyperarts.com/blog/feed" target="_blank">RSS</a>) &#8211; HyperArts blog covers Facebook, SEO, social media, web design, and WordPress.</li>
+<li> <a href="http://www.pammarketingnut.com/social-media-blog-posts-featured/" target="_blank">Pam Marketing Nut</a> (<a href="http://feeds.feedburner.com/PamMarketingNut" target="_blank">RSS</a>) &#8211; Social media tips, best practices, training and tools for small business, medium business, large business from Pam Moore, Pam Marketing Nut.</li>
+<li> <a href="http://www.andreavahl.com/blog" target="_blank">Andrea Vahl</a> (<a href="http://feeds.feedburner.com/andreavahl" target="_blank">RSS</a>) &#8211; Learn how to use Facebook and social media for your business.</li>
+<li> <a href="http://www.wchingya.com/" target="_blank">Social Blogging Tracker</a> (<a href="http://feeds.feedburner.com/wchingya" target="_blank">RSS</a>) &#8211; Comprehensive social media guide to optimize social networking and branding.</li>
+<li> <a href="http://www.razorsocial.com/" target="_blank">Razor Social</a> (<a href="http://www.razorsocial.com/feed/" target="_blank">RSS</a>) &#8211; Razorsocial is the best resource on the web for free information on social media tools and technology.</li>
+<li> <a href="http://www.jonloomer.com/blog/" target="_blank">Jon Loomer</a> (<a href="http://feeds.feedburner.com/jonloomer" target="_blank">RSS</a>) &#8211; Jon Loomer uses his blog to provide daily tips and breaking news to make you a better Facebook marketer and blogger.</li>
+<li> <a href="http://www.jeffbullas.com/" target="_blank">Jeff Bullas</a> (<a href="http://feeds.feedburner.com/JeffbullassBlog" target="_blank">RSS</a>) &#8211; Helping business and personal brands with digital social media marketing including social media with blogs, Twitter, Facebook, LinkedIn, YouTube and search engine optimization</li>
+<li> <a href="http://60secondmarketer.com/blog/" target="_blank">60 Second Marketer</a> (<a href="http://60secondmarketer.com/blog/feed/" target="_blank">RSS</a>) &#8211; The 60 Second Marketer is an online community that provided tools, tips and tutorials for marketers around the globe. It was founded by Jamie Turner, co-author of &#8220;How to Make Money with Social Media&#8221; and &#8220;Go Mobile.&#8221; </li>
+<li> <a href="http://kimgarst.com/blog/" target="_blank">Boom Social</a> (<a href="http://kimgarst.com/feed/" target="_blank">RSS</a>) &#8211; The core of our publicity and marketing strategies are based on age-old principals, carried out through modern day social media tools.</li>
+<li> <a href="http://blog.bufferapp.com/" target="_blank">The Buffer Blog</a> (<a href="http://blog.bufferapp.com/feed/" target="_blank">RSS</a>) &#8211; A blog about social media, productivity, life hacks, writing, user experience, customer happiness and business.</li>
+</ol>
+<h2>Website Optimization</h2>
+<div id="attachment_15088" class="wp-caption alignright" style="width: 260px"><img src="http://unbounce.com/photos/Web-Blogs.png" alt="Web Blogs" width="250" height="225" class="size-full wp-image-15088" /><p class="wp-caption-text">Don&#8217;t get left behind in the times. Read these web technology blogs.</p></div>
+<ol start="74">
+<li> <a href="http://royal.pingdom.com/" target="_blank">Royal Pingdom</a> (<a href="http://royal.pingdom.com/feed/" target="_blank">RSS</a>) &#8211; Ramblings and musings about web tech and the Internet in general from the team at Pingdom.</li>
+<li> <a href="http://rich-page.com/" target="_blank">Rich Page Website Optimizer</a> (<a href="http://feeds.feedburner.com/RichPageRamblings" target="_blank">RSS</a>) &#8211; Website testing, conversion rate and website optimization services and blog, great for small and medium online businesses.</li>
+</ol>
+<h2>Bonus </h2>
+<ol start="76">
+<li> <a href="http://unbounce.com/blog" target="_blank">Unbounce</a> (<a href="http://unbounce.com/feed/" target="_blank">RSS</a>) &#8211; And don&#8217;t forget Unbounce (or just in case you missed it the first time around). Enjoy refreshing, unique posts geared toward stats-driven marketers that live and breathe conversion rate optimization, landing page optimization and A/B Testing. </li>
+</ol>
+<p>Unfortunately, I couldn’t list all the top blogs out there (otherwise this post would never get published), so if you don&#8217;t see your favorites in this post or the original <a href="http://unbounce.com/online-marketing/epic-marketing-blogs/">75 Epic Marketing Blogs</a> post, please don’t be offended. Just mention them in the comments instead. They might make next year&#8217;s list!</p>
+<p><a href="/author/kristi-hines/" target="_blank"><em>&#8211; Kristi Hines</em></a></p>
+<hr />
+<p align="center" style="margin: 20px 0px 20px 0px;">
+<a href="http://try.unbounce.com/for-higher-conversion-rates/?utm_source=blog&#038;utm_medium=post&#038;utm_campaign=online-marketing" target="_blank"><img src="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/images/unbounce-blog-footer-cta.png" /></a></p>
+						
+						
+						<!-- Inline social buttons -->
+						<div id="mobile-social">
+							<div style="float:left;margin-right:15px;"><div id="tweetbutton15075m" class="tw_button" style=""><a href="http://twitter.com/share?url=http%3A%2F%2Fsu.pr%2F1a8FML&amp;via=unbounce&amp;text=The%20Top%2075%20Must-Read%20Online%20Marketing%20Blogs&amp;related=oligardner:Unbounce+Co-Founder+Marketing+Director+%26+Chief+Writer&amp;lang=en&amp;count=vertical&amp;counturl=http%3A%2F%2Funbounce.com%2Fonline-marketing%2F75-marketing-blogs-to-make-your-rss-reader-more-fat%2F" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://unbounce.wpengine.netdna-cdn.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div></div>
+							<div style="float:left;margin-right:15px;"><a href="http://bufferapp.com/add" class="buffer-add-button" data-count="vertical" data-via="unbounce" >Buffer</a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script>
+							</div>
+							<div style="float:left;margin-right:0px;"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Funbounce.com%2Fonline-marketing%2F75-marketing-blogs-to-make-your-rss-reader-more-fat%2F&amp;layout=box_count&amp;show_faces=false&amp;width=62&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:62px;"></iframe></div>
+							<div style="float:left;margin-right:12px;"><g:plusone size="tall"></g:plusone></div>
+							<div style="float:left;">
+								<script src="//platform.linkedin.com/in.js" type="text/javascript">
+								 lang: en_US
+								</script>
+								<script type="IN/Share" data-counter="top"></script>
+							</div>
+							<div class="clear"></div>
+						</div>
+						
+						
+						
+												
+						
+						
+						
+						
+
+												
+						
+      					
+      					
+     
+      				
+      					
+	      				
+	      				
+      					
+						
+					
+						
+						
+						
+						<div class="email-subscribe" style="padding-left:0px;padding-top:15px;">
+							<!--<h4 align="center">Get free actionable marketing &amp; conversion tips in your inbox</h4>-->
+<!--						<p>Get free optimization and conversion tips in your inbox.</p>-->
+							<!--<p align="center" style="margin-top:15px;"><a href="http://get.unbounce.com/blog" class="fancybox iframe"><button class="email-cta" style="padding:15px;font-size:15px;">Subscribe to the Blog by Email</button></a></p>-->
+							<p align="center" style="margin-top:15px;"><a href="http://get.unbounce.com/blog" class="fancybox blogsignup"><button class="email-cta" style="padding:15px;font-size:15px;">Get Fresh  Optimization, Testing &amp; Conversion Tips in Your Inbox</button></a></p>
+<!-- 
+<p>
+	
+	<form action="http://unbounce.us2.list-manage2.com/subscribe/post" method="post" target="_blank">
+<input type="hidden" name="u" value="62edec8cc291d9dc2068e997e">
+<input type="hidden" name="id" value="7f9f125ccc">
+-->
+<!-- Frequency = Daily -->
+<!-- <input type="hidden" value="2" name="group[11101]" id="mce-group[11101]-11101-0">-->
+<!-- Source = Footer -->
+<!--<input type="hidden" value="32" name="group[11125]" id="mce-group[11125]-11125-0">-->
+<!--
+
+	<div class="form-l" style="float:left;margin-right:10px;">
+		
+	<p><input style="width:250px;" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="Enter your email address..." onfocus="if (this.value == 'Enter your email address...') {this.value='';}" onblur="if (this.value == '') {this.value='Enter your email address...';}">
+</p></div><input type="submit" class="email-cta" value="Subscribe to the Blog" /></form>
+	</div>
+	
+	
+
+</p>
+-->
+					<div class="clear"></div>
+						</div>
+						
+						
+						
+												
+						<div class="blog-author-bio clearfix">
+							<h4>About The Author</h4>
+							
+							<p class="clearfix">
+								<div style="margin-top:3px;"><img class="author-photo" align="left" src="/photos/author-photo-22.jpg" width="120" alt="Photo of Kristi Hines" /></div>
+								<span class="author-name"><a href="http://unbounce.com/author/kristi-hines/" title="Posts by Kristi Hines" rel="author">Kristi Hines</a></span>
+								<br/>
+								<span class="author-bio">Kristi Hines is a social media enthusiast and blogger at Kikolani which focuses on <a href="http://kikolani.com">blog marketing</a> topics including blogging tips and social networking strategies.  She also contributes to many other sites as a freelance writer covering online marketing topics for businesses including search and social marketing optimization.  When she's not on the computer, her personal hobbies include photography, tennis, and salsa dancing!</span>
+								<br/>
+								<span class="author-more">&raquo; More blog posts by <a href="http://unbounce.com/author/kristi-hines/" title="Posts by Kristi Hines" rel="author">Kristi Hines</a></span>
+							</p>
+							
+						</div>
+						
+						 
+					
+						
+						<div class="clear"></div>
+						
+						
+						
+						
+						<!--<h3>Get more clicks, leads and conversions on your landing pages</h3>
+						<p><a href="/pricing/">Start a FREE trial now</a> and build, publish and A/B test your marketing campaigns for a higher ROI and more creative freedom than you've ever had before.</p>-->
+						
+				
+						
+												
+							<a name="comment"></a>
+	<div id="comment-box" style="width:560px;">
+
+
+<!-- You can start editing here. -->
+
+
+<div style="width:auto;">
+
+	<h2>Comments</h3>
+	<!--<p>(All links are Do-Follow: we respect and encourage interaction)</p>-->
+
+	<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="comment-453132">
+				<div id="div-comment-453132" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/694827d8960d4daa84a8d5266d0e1b10?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='https://twitter.com/weboptmization' rel='external nofollow' class='url'>Rajesh</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453132">
+			April 29, 2013 at 2:41 am</a>		</div>
+
+		<p>It&#8217;s really a Awesome List&#8230;Hope this list will help for beginners too&#8230;</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453132' onclick='return addComment.moveForm("div-comment-453132", "453132", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-453138">
+				<div id="div-comment-453138" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/7640552b0400af4588e363af539feb55?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.highonseo.com' rel='external nofollow' class='url'>Matt Antonino</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453138">
+			April 29, 2013 at 3:22 am</a>		</div>
+
+		<p>Great timing!  With the coming collapse of Reader, I&#8217;ve been moving all my subscriptions over, reorganizing, and adding/removing subscriptions. I&#8217;ve bookmarked this so next time I get some time, I can add some of these.  Again, perfect timing and thanks! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453138' onclick='return addComment.moveForm("div-comment-453138", "453138", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-453208">
+				<div id="div-comment-453208" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/8fea445282e56e934caf50d21f6001d3?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://blog.aceofsales.com' rel='external nofollow' class='url'>Caelan Huntress</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453208">
+			April 30, 2013 at 10:45 am</a>		</div>
+
+		<p>Spring cleaning, right? I&#8217;m doing my last Google Reader mass-subscribe with this list.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453208' onclick='return addComment.moveForm("div-comment-453208", "453208", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-453140">
+				<div id="div-comment-453140" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/be8e93736d136e28ee10bba24091bd41?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='https://twitter.com/Koozai_Tom' rel='external nofollow' class='url'>Tom Howlett</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453140">
+			April 29, 2013 at 3:56 am</a>		</div>
+
+		<p>Great list, a few here I had not heard of.</p>
+<p>My evenings look busy from now on.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453140' onclick='return addComment.moveForm("div-comment-453140", "453140", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-453144">
+				<div id="div-comment-453144" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/7ba13b79df6a5cf2498fcf6ecd726f4c?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">annelizhannan</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453144">
+			April 29, 2013 at 5:41 am</a>		</div>
+
+		<p>Full of the bacon, great taste and no calories. Can&#8217;t get better! Thanks Kristi.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453144' onclick='return addComment.moveForm("div-comment-453144", "453144", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-even depth-1" id="comment-453147">
+				<div id="div-comment-453147" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://financialmoneytips.com/how-to-create-winning-headlines-in-9-simple-steps-more/' rel='external nofollow' class='url'>How to Create Winning Headlines in 9 Simple Steps + MORE</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453147">
+			April 29, 2013 at 6:35 am</a>		</div>
+
+		<p>[...] 75 Loaded Marketing Blogs to Make Your RSS Reader Even More Fat! [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453147' onclick='return addComment.moveForm("div-comment-453147", "453147", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1 parent" id="comment-453148">
+				<div id="div-comment-453148" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/586bd6c9bb99e3a3210ae8f4cd24a031?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.stickycontent.com/blog/' rel='external nofollow' class='url'>Sticky Content</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453148">
+			April 29, 2013 at 7:35 am</a>		</div>
+
+		<p>Thanks for sharing these. It&#8217;s always useful to get pointers to the good blogs out there. You might also be interested in our blog at Sticky Content. <a href="http://www.stickycontent.com/blog/" rel="nofollow">http://www.stickycontent.com/blog/</a> We&#8217;ve got regular tips for writing good online copy, emails and content strategy.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453148' onclick='return addComment.moveForm("div-comment-453148", "453148", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment odd alt depth-2" id="comment-453798">
+				<div id="div-comment-453798" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453798">
+			May 9, 2013 at 10:09 am</a>		</div>
+
+		<p>Thanks for sharing your blog too! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453798' onclick='return addComment.moveForm("div-comment-453798", "453798", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment even thread-even depth-1 parent" id="comment-453151">
+				<div id="div-comment-453151" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/9bc64e0de0b050bf5728e50a0a3a2816?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.seo.com' rel='external nofollow' class='url'>Andrew Johnson</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453151">
+			April 29, 2013 at 9:41 am</a>		</div>
+
+		<p>Kristi, thanks for including SEO.com! This is a great list, and I&#8217;ll definitely bookmark a bunch of these sites.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453151' onclick='return addComment.moveForm("div-comment-453151", "453151", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment odd alt depth-2" id="comment-453799">
+				<div id="div-comment-453799" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453799">
+			May 9, 2013 at 10:10 am</a>		</div>
+
+		<p>You&#8217;re quite welcome Andrew! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453799' onclick='return addComment.moveForm("div-comment-453799", "453799", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment even thread-odd thread-alt depth-1 parent" id="comment-453152">
+				<div id="div-comment-453152" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/da35bdb1d90f1f05bf9f5ac350b9bc59?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Ben Donahower</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453152">
+			April 29, 2013 at 10:14 am</a>		</div>
+
+		<p>Great list! To add to the dialogue, Mixergy does pretty solid interviews too.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453152' onclick='return addComment.moveForm("div-comment-453152", "453152", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment odd alt depth-2" id="comment-453356">
+				<div id="div-comment-453356" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/324f10cc277c80bf379c0445ff81eac9?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.EntrepreneurOnFire.com' rel='external nofollow' class='url'>John Lee Dumas</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453356">
+			May 2, 2013 at 1:13 pm</a>		</div>
+
+		<p>Ben&#8230;why do you hate EntrepreneurOnFire so much ;-)  JK!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453356' onclick='return addComment.moveForm("div-comment-453356", "453356", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment even thread-even depth-1" id="comment-453154">
+				<div id="div-comment-453154" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/cb64131fc94f0387dd7bc5288c574106?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.rivaliq.com' rel='external nofollow' class='url'>Danielle</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453154">
+			April 29, 2013 at 11:16 am</a>		</div>
+
+		<p>As always, great post Kristi! Now to find some more hours in the day to read all of these great blogs :o)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453154' onclick='return addComment.moveForm("div-comment-453154", "453154", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-453157">
+				<div id="div-comment-453157" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/9bf220e41d8960a0f09a3164a9642534?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://webemergence.com/blog/' rel='external nofollow' class='url'>Greg</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453157">
+			April 29, 2013 at 1:36 pm</a>		</div>
+
+		<p>Thanks for sharing this mass list of RSS feeds.  While we haven&#8217;t made the list, we certainly invite anyone to include our feeds for SEO.  We tend to mix business with fun in our feeds.  Check it out: <a href="http://feeds.webemergence.com/WebemergenceWeBlog-OnlineMarketingAndAffordableSeoServices" rel="nofollow">http://feeds.webemergence.com/WebemergenceWeBlog-OnlineMarketingAndAffordableSeoServices</a></p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453157' onclick='return addComment.moveForm("div-comment-453157", "453157", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-453800">
+				<div id="div-comment-453800" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453800">
+			May 9, 2013 at 10:10 am</a>		</div>
+
+		<p>Thanks for sharing Greg! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453800' onclick='return addComment.moveForm("div-comment-453800", "453800", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-453174">
+				<div id="div-comment-453174" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/5af77e9b8add5d8220d213d87f729ffa?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.esendex.com.au' rel='external nofollow' class='url'>Esendex</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453174">
+			April 29, 2013 at 11:09 pm</a>		</div>
+
+		<p>Whilst I love reading blogs, there just aren&#8217;t enough hours in the day to read, learn and implement what you read. That being said, I will be adding a few to my Feedly and pick and choose what I read from there. Thanks.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453174' onclick='return addComment.moveForm("div-comment-453174", "453174", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-453186">
+				<div id="div-comment-453186" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/55397336e9c2723cf9ad767bc6ea1d95?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.JorgeRamosSantos.com' rel='external nofollow' class='url'>Jorge</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453186">
+			April 30, 2013 at 6:02 am</a>		</div>
+
+		<p>Thanks! This is a great list&#8230;</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453186' onclick='return addComment.moveForm("div-comment-453186", "453186", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-453196">
+				<div id="div-comment-453196" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/e6f3e05db5eb093bebe7becc5c7ecb87?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://raventools.com/tools' rel='external nofollow' class='url'>Jeremy Rivera</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453196">
+			April 30, 2013 at 7:50 am</a>		</div>
+
+		<p>I am surprised that SEO By The Sea by Bill Slawski isn&#8217;t on the list, he&#8217;s hardcore SEO when it comes to dissecting patents and looking at the information retrieval side of things. I also would humble-brag/suggest the <a href="http://RavenTools.com/blog" rel="nofollow">http://RavenTools.com/blog</a> be considered :) .</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453196' onclick='return addComment.moveForm("div-comment-453196", "453196", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-453801">
+				<div id="div-comment-453801" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453801">
+			May 9, 2013 at 10:11 am</a>		</div>
+
+		<p>Thanks for adding those Jeremy. They may make next year&#8217;s list! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453801' onclick='return addComment.moveForm("div-comment-453801", "453801", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-453202">
+				<div id="div-comment-453202" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/4ebfdeed3e1ca7dfbb360c0d67a87147?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.seocopywriting.com' rel='external nofollow' class='url'>Heather Lloyd-Martin</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453202">
+			April 30, 2013 at 9:12 am</a>		</div>
+
+		<p>Kristi, you rock! Thanks so much for including the SEO Copywriting blog. I appreciate it! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453202' onclick='return addComment.moveForm("div-comment-453202", "453202", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-453802">
+				<div id="div-comment-453802" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453802">
+			May 9, 2013 at 10:11 am</a>		</div>
+
+		<p>You&#8217;re welcome Heather! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453802' onclick='return addComment.moveForm("div-comment-453802", "453802", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-453207">
+				<div id="div-comment-453207" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/8fea445282e56e934caf50d21f6001d3?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://blog.aceofsales.com' rel='external nofollow' class='url'>Caelan Huntress</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453207">
+			April 30, 2013 at 10:44 am</a>		</div>
+
+		<p>This is a fantastic list! Just padded out my RSS reader with quite a few new blogs to review (and share) during my weekly social media crunch.</p>
+<p>If you bump the list up to 100, <a href="http://blog.aceofsales.com" rel="nofollow">http://blog.aceofsales.com</a> should definitely be in there. I agree with Jeremy&#8217;s shout out to Raven Tools, they have awesome stuff.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453207' onclick='return addComment.moveForm("div-comment-453207", "453207", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-453803">
+				<div id="div-comment-453803" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453803">
+			May 9, 2013 at 10:12 am</a>		</div>
+
+		<p>Thanks for the suggestion Caelan! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453803' onclick='return addComment.moveForm("div-comment-453803", "453803", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-453214">
+				<div id="div-comment-453214" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/0c971513d7fc2a41d5f437cb404b835c?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.razorsocial.com' rel='external nofollow' class='url'>Ian Cleary</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453214">
+			April 30, 2013 at 12:13 pm</a>		</div>
+
+		<p>Hey Kristi,</p>
+<p>Thanks for including RazorSocial in the list.  There&#8217;s so many blogs on the list that I admire (including yours), it&#8217;s great to be included.</p>
+<p>Ian</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453214' onclick='return addComment.moveForm("div-comment-453214", "453214", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-453804">
+				<div id="div-comment-453804" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453804">
+			May 9, 2013 at 10:12 am</a>		</div>
+
+		<p>You&#8217;re welcome Ian! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453804' onclick='return addComment.moveForm("div-comment-453804", "453804", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="pingback odd alt thread-even depth-1" id="comment-453222">
+				<div id="div-comment-453222" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://marketingland.com/marketing-day-april-30-2013-42003' rel='external nofollow' class='url'>Marketing Day: April 30, 2013</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453222">
+			April 30, 2013 at 2:03 pm</a>		</div>
+
+		<p>[...] The Top 75 Must-Read Online Marketing Blogs, Unbounce [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453222' onclick='return addComment.moveForm("div-comment-453222", "453222", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1 parent" id="comment-453230">
+				<div id="div-comment-453230" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/efe0b8dbf558c4f4463d9235472348f3?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.rich-page.com' rel='external nofollow' class='url'>Rich Page</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453230">
+			April 30, 2013 at 3:08 pm</a>		</div>
+
+		<p>Great list Kristi and thanks for including my blog!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453230' onclick='return addComment.moveForm("div-comment-453230", "453230", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment odd alt depth-2" id="comment-453805">
+				<div id="div-comment-453805" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453805">
+			May 9, 2013 at 10:15 am</a>		</div>
+
+		<p>You&#8217;re welcome Rich! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453805' onclick='return addComment.moveForm("div-comment-453805", "453805", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="pingback even thread-even depth-1" id="comment-453241">
+				<div id="div-comment-453241" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://mailmarketinguk.com/marketing-day-april-30-2013/' rel='external nofollow' class='url'>Marketing Day: April 30, 2013 | Uk Marketing</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453241">
+			April 30, 2013 at 6:52 pm</a>		</div>
+
+		<p>[...] The Top 75 Must-Read Online Marketing Blogs, Unbounce [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453241' onclick='return addComment.moveForm("div-comment-453241", "453241", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-453269">
+				<div id="div-comment-453269" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.seocopywriting.com/content-marketing/seo-content-marketing-roundup-week-ending-may-1st/' rel='external nofollow' class='url'>SEO content marketing roundup, week ending May 1st</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453269">
+			May 1, 2013 at 3:01 am</a>		</div>
+
+		<p>[...] Kristi Hines compiles “The Top 75 Must-Read Online Marketing Blogs” at Unbounce. [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453269' onclick='return addComment.moveForm("div-comment-453269", "453269", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-453283">
+				<div id="div-comment-453283" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/b9dc326114254275abed5327e51cf980?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.dealskhoj.in' rel='external nofollow' class='url'>Sandeep</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453283">
+			May 1, 2013 at 7:49 am</a>		</div>
+
+		<p>Thanks ! This article is great ! Surely going to use it for our deal-based company.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453283' onclick='return addComment.moveForm("div-comment-453283", "453283", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-453291">
+				<div id="div-comment-453291" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/23706fee9d0dac3afb40c067fcd2e46f?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.red-website-design.co.uk' rel='external nofollow' class='url'>Mark Ford</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453291">
+			May 1, 2013 at 9:43 am</a>		</div>
+
+		<p>Hi Kristi </p>
+<p>Great list. A few I read daily that aren&#8217;t included here are Social Media Today, Search Engine Watch and Search Engine Journal.</p>
+<p>Worth a look if you get the chance.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453291' onclick='return addComment.moveForm("div-comment-453291", "453291", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-453806">
+				<div id="div-comment-453806" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453806">
+			May 9, 2013 at 10:15 am</a>		</div>
+
+		<p>Hi Mark! Those were included in last year&#8217;s list which is linked to at the beginning and end of this post. :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453806' onclick='return addComment.moveForm("div-comment-453806", "453806", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="pingback odd alt thread-even depth-1" id="comment-453295">
+				<div id="div-comment-453295" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.unleashdomain.com/the-top-75-must-read-online-marketing-blogs-unbounce/' rel='external nofollow' class='url'>The Top 75 Must-Read Online Marketing Blogs | Unbounce &raquo; UnleashDomain</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453295">
+			May 1, 2013 at 10:40 am</a>		</div>
+
+		<p>[...] all in one place, nicely categorized to cover content marketing, optimization, testing, and more!unbounce.com/&#8230;/75-marketing-blogs-to-make-your-rss-reade&#8230; (Click title to read [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453295' onclick='return addComment.moveForm("div-comment-453295", "453295", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-453304">
+				<div id="div-comment-453304" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/3672f3d041711eb01731fd9791887237?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://ktw.jobplaza.ciscofreak.com/' rel='external nofollow' class='url'>florida1970</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453304">
+			May 1, 2013 at 2:46 pm</a>		</div>
+
+		<p>I disagree. Look at:<br />
+ <a href="http://www.resourcenation.com/blog/expert-advice-on-perfecting-your-internet-marketing/36161/" rel="nofollow">http://www.resourcenation.com/blog/expert-advice-on-perfecting-your-internet-marketing/36161/</a></p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453304' onclick='return addComment.moveForm("div-comment-453304", "453304", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-453305">
+				<div id="div-comment-453305" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/c9b74b2db68f47dbda2f417acda19a7f?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.colchonesbaratosweb.es' rel='external nofollow' class='url'>Carla</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453305">
+			May 1, 2013 at 3:02 pm</a>		</div>
+
+		<p>Hi! i&#8217;m begineer and this list is really awsome. thanks</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453305' onclick='return addComment.moveForm("div-comment-453305", "453305", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1 parent" id="comment-453308">
+				<div id="div-comment-453308" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/b4c51832e7e154e057746b2ee0e79097?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.relevantwit.com' rel='external nofollow' class='url'>Ryan Glass</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453308">
+			May 1, 2013 at 5:05 pm</a>		</div>
+
+		<p>re #55: I agree David Mihm provides a wealth of knowledge regarding local SEO.  However, you noted that it&#8217;s not updated very often. The reason appears to be that in his last post he mentions writing for SEOmoz now. May want to edit that one.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453308' onclick='return addComment.moveForm("div-comment-453308", "453308", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment odd alt depth-2" id="comment-453807">
+				<div id="div-comment-453807" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453807">
+			May 9, 2013 at 10:17 am</a>		</div>
+
+		<p>He didn&#8217;t update that often before writing for SEOmoz either. But the posts were always awesome when he did. :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453807' onclick='return addComment.moveForm("div-comment-453807", "453807", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment even thread-even depth-1 parent" id="comment-453320">
+				<div id="div-comment-453320" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/a3c4b601cdaef96cc92f1204593ef01f?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.WomanInLeadership.com' rel='external nofollow' class='url'>Stacie Walker</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453320">
+			May 1, 2013 at 11:57 pm</a>		</div>
+
+		<p>Hi Kristi,</p>
+<p>You are EVERYWHERE:) I appreciate you for sharing your content on my favorite blogs. You are awesome. Thanks for providing a list that I need to add to my blogs to read folder.</p>
+<p>To Your Success,</p>
+<p>Stacie Walker</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453320' onclick='return addComment.moveForm("div-comment-453320", "453320", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment odd alt depth-2" id="comment-453808">
+				<div id="div-comment-453808" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453808">
+			May 9, 2013 at 10:17 am</a>		</div>
+
+		<p>Thanks Stacie! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453808' onclick='return addComment.moveForm("div-comment-453808", "453808", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="pingback even thread-odd thread-alt depth-1" id="comment-453335">
+				<div id="div-comment-453335" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://marketingonline.airdreams.net/the-top-75-must-read-online-marketing-blogs-unbounce/' rel='external nofollow' class='url'>Marketing Online &raquo; The Top 75 Must-Read Online Marketing Blogs | Unbounce</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453335">
+			May 2, 2013 at 4:42 am</a>		</div>
+
+		<p>[...] Leer este artículo :   The Top 75 Must-Read Online Marketing Blogs | Unbounce [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453335' onclick='return addComment.moveForm("div-comment-453335", "453335", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-453357">
+				<div id="div-comment-453357" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/324f10cc277c80bf379c0445ff81eac9?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.EntrepreneurOnFire.com' rel='external nofollow' class='url'>John Lee Dumas</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453357">
+			May 2, 2013 at 1:16 pm</a>		</div>
+
+		<p>Kristi,</p>
+<p>Huge honor to be on this list. Fire Nation was so pumped, and I am too :-) Thank you for sharing EntrepreneurOnFire with this awesome group of incredible people&#8230;you rock Kristi!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453357' onclick='return addComment.moveForm("div-comment-453357", "453357", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-453809">
+				<div id="div-comment-453809" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453809">
+			May 9, 2013 at 10:17 am</a>		</div>
+
+		<p>You&#8217;re welcome John! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453809' onclick='return addComment.moveForm("div-comment-453809", "453809", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-453365">
+				<div id="div-comment-453365" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/faf9419c12881ccc79ef080820fe2f5c?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.whattodotoearnmoneyfast.com/' rel='external nofollow' class='url'>Kate Hudson</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453365">
+			May 2, 2013 at 3:12 pm</a>		</div>
+
+		<p>It&#8217;s great to see such tips most of people wonder for. Measuring socila media ROI is now possible with tips you shared. And i would like to add empower network for best marketing strategy which will get you high Social Media ROI. For more check how does empower network work online.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453365' onclick='return addComment.moveForm("div-comment-453365", "453365", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-453375">
+				<div id="div-comment-453375" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d63d3a37f9b5eaa394d316dc393584f3?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.internetexpert.biz' rel='external nofollow' class='url'>Internet exprt</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453375">
+			May 2, 2013 at 8:55 pm</a>		</div>
+
+		<p>We have just announcing new social media bookmarking website <a href="http://www.internetexpert.biz" rel="nofollow">http://www.internetexpert.biz</a> &#8211; we are inviting all to submit your website and get maximum outcome from premium domain.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453375' onclick='return addComment.moveForm("div-comment-453375", "453375", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-453376">
+				<div id="div-comment-453376" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.dailymarketingnews.info/2013/05/the-top-75-must-read-online-marketing-blogs-unbounce/' rel='external nofollow' class='url'>Daily Marketing News | The Top 75 Must-Read Online Marketing Blogs | Unbounce</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453376">
+			May 2, 2013 at 9:04 pm</a>		</div>
+
+		<p>[...] The top online marketing blogs are collected all in one place, nicely categorized to cover content marketing, optimization, testing, and more! Article by internet marketing &#8211; Google Blog Search. Read entire story here. [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453376' onclick='return addComment.moveForm("div-comment-453376", "453376", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-453387">
+				<div id="div-comment-453387" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/a06a65249cec0ea60a7e50929560f8df?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.blockscientific.com' rel='external nofollow' class='url'>Juliet</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453387">
+			May 3, 2013 at 3:09 am</a>		</div>
+
+		<p>Informative article, its really helpful.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453387' onclick='return addComment.moveForm("div-comment-453387", "453387", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-453418">
+				<div id="div-comment-453418" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://lpcmarketing.com/small-business-marketing-45/' rel='external nofollow' class='url'>small business marketing | LPC Marketing</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453418">
+			May 3, 2013 at 1:49 pm</a>		</div>
+
+		<p>[...] The Top 75 Must-Read Online Marketing Blogs | Unbounce <a href="http://unbounce.com/Chris" rel="nofollow">http://unbounce.com/Chris</a> Ducker (RSS) – Chris Ducker helps entrepreneurs catapult their small business into the 21st century by utilizing &#039;New Business&#039; marketing strategies such as blogging, online video, podcasting, outsourcing, social media and more! WebProNews (RSS) – Breaking news in tech, &#8230;. Blind Five Year Old (RSS) – Blind Five Year Old is a San Francisco SEO and Internet Marketing consultancy and blog by AJ Kohn. Internet Marketing Ninjas (RSS) – The latest SEO &#8230; [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453418' onclick='return addComment.moveForm("div-comment-453418", "453418", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1 parent" id="comment-453434">
+				<div id="div-comment-453434" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d91adb4f1882dcc467b9a8671bebaeda?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://wphike.com' rel='external nofollow' class='url'>Koundeenya</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453434">
+			May 3, 2013 at 10:48 pm</a>		</div>
+
+		<p>That&#8217;s really an awesome list. I am a huge fan of Jon Morrow and his blog. I&#8217;m glad to see his blog in this list. I wonder why you didn&#8217;t put Copyblogger here. It&#8217;s really an amazing blog to read.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453434' onclick='return addComment.moveForm("div-comment-453434", "453434", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment odd alt depth-2" id="comment-453810">
+				<div id="div-comment-453810" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453810">
+			May 9, 2013 at 10:18 am</a>		</div>
+
+		<p>Copyblogger was in last year&#8217;s list that&#8217;s linked to at the beginning and end of this post. I just wanted to highlight new blogs instead of putting the same ones in two years in a row. :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453810' onclick='return addComment.moveForm("div-comment-453810", "453810", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-453469">
+				<div id="div-comment-453469" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/edf7c142b880412f17a5ca5cb662b617?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://KlientBoost.com' rel='external nofollow' class='url'>Johnathan Dane</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453469">
+			May 4, 2013 at 10:42 pm</a>		</div>
+
+		<p>Amazing list! How thorough :) Thank you very much.</p>
+<p>We&#8217;ll get our blog on the list next year!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453469' onclick='return addComment.moveForm("div-comment-453469", "453469", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-even depth-1" id="comment-453561">
+				<div id="div-comment-453561" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.zoolstra.com/best-business-practices-online/the-top-75-must-read-online-marketing-blogs-unbounce/' rel='external nofollow' class='url'>The Top 75 Must-Read Online Marketing Blogs | Unbounce - Zoolstra</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453561">
+			May 6, 2013 at 11:54 am</a>		</div>
+
+		<p>[...] The Top 75 Must-Read Online Marketing Blogs | Unbounce [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453561' onclick='return addComment.moveForm("div-comment-453561", "453561", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-453578">
+				<div id="div-comment-453578" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/a47ceb50ac467f28c548b5de2a456909?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.orchardbliss.com.au' rel='external nofollow' class='url'>Kristine</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453578">
+			May 6, 2013 at 6:16 pm</a>		</div>
+
+		<p>What an extensive list. I better get reading asap. Thank you.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453578' onclick='return addComment.moveForm("div-comment-453578", "453578", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-even depth-1" id="comment-453581">
+				<div id="div-comment-453581" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.trafficgenerationcafe.com/weekly-marketing-skinny-may-4-2013/' rel='external nofollow' class='url'>Weekly Marketing Skinny: May 4, 2013</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453581">
+			May 6, 2013 at 8:36 pm</a>		</div>
+
+		<p>[...] The Top 75 Must-Read Online Marketing Blogs - Kristi Hines at Unbounce.com [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453581' onclick='return addComment.moveForm("div-comment-453581", "453581", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-453613">
+				<div id="div-comment-453613" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/7294703a885b6521169110639564ba77?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Eric Basiches</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453613">
+			May 7, 2013 at 1:36 am</a>		</div>
+
+		<p>wow ! great list…</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453613' onclick='return addComment.moveForm("div-comment-453613", "453613", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-453625">
+				<div id="div-comment-453625" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/37cf5313371a1b4559ba6b9f63c17845?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='https://plus.google.com/u/0/114930506888406972461/posts' rel='external nofollow' class='url'>Erwin</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453625">
+			May 7, 2013 at 2:38 am</a>		</div>
+
+		<p>I would suggest this site as well: Smart Insights: <a href="http://www.smartinsights.com/" rel="nofollow">http://www.smartinsights.com/</a></p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453625' onclick='return addComment.moveForm("div-comment-453625", "453625", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-453811">
+				<div id="div-comment-453811" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453811">
+			May 9, 2013 at 10:19 am</a>		</div>
+
+		<p>Thanks for the suggestion Erwin! :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453811' onclick='return addComment.moveForm("div-comment-453811", "453811", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-453638">
+				<div id="div-comment-453638" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.millora-la-web.com/analitica-web/blogs-sobre-analitica-web-estar-al-dia/' rel='external nofollow' class='url'>Blogs sobre analítica web: estar al dia - Millora la web</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453638">
+			May 7, 2013 at 4:53 am</a>		</div>
+
+		<p>[...] engreixar la llista dels 10 en anglès, una selecció de 75 blogs en l&#8217;àrea de marquèting, alguns d&#8217;analítica, la majoria interessants -encara que el seu tema principal no sigui [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453638' onclick='return addComment.moveForm("div-comment-453638", "453638", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-453669">
+				<div id="div-comment-453669" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/1c7a0a4322ad7dd3741d44c94157816f?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.citona.dk' rel='external nofollow' class='url'>Citona</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453669">
+			May 7, 2013 at 9:24 am</a>		</div>
+
+		<p>Very nice and extensive list Kristi. Just added a bunch to my followlist. :-)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453669' onclick='return addComment.moveForm("div-comment-453669", "453669", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-453748">
+				<div id="div-comment-453748" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/e092157d12d289117889793d25c9620a?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Elle</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453748">
+			May 8, 2013 at 6:17 am</a>		</div>
+
+		<p>Kristi, </p>
+<p>This article is very helpful; please know your work is much appreciated by this lifelong learner!</p>
+<p>Elle<br />
+Detroit, MI</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453748' onclick='return addComment.moveForm("div-comment-453748", "453748", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-453784">
+				<div id="div-comment-453784" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/cdd5435c9c85580f63e56a4dcf6f5c62?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Amor Aguelo</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453784">
+			May 9, 2013 at 12:43 am</a>		</div>
+
+		<p>Be sure to equipped oneself by attending training such as <a href="http://www.clickminded.com/">clickminded seo training</a>.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453784' onclick='return addComment.moveForm("div-comment-453784", "453784", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-453787">
+				<div id="div-comment-453787" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/56667a760d6024aaa0316fff8d133246?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.909marketing.com' rel='external nofollow' class='url'>Internet Marketing Company</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453787">
+			May 9, 2013 at 2:44 am</a>		</div>
+
+		<p>Thanks for providing list of useful online marketing blog&#8230;</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453787' onclick='return addComment.moveForm("div-comment-453787", "453787", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-453796">
+				<div id="div-comment-453796" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d8f93be0db028be7bfbd4fd377a7b020?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.matthewwoodward.co.uk' rel='external nofollow' class='url'>Matthew Woodward</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453796">
+			May 9, 2013 at 9:53 am</a>		</div>
+
+		<p>Thanks for including me in the list =D</p>
+<p>Time to take it to the next step and earn myself a higher spot on the list :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453796' onclick='return addComment.moveForm("div-comment-453796", "453796", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-453812">
+				<div id="div-comment-453812" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f64fc2d2a1373a498878762fffdd38f2?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://kikolani.com/' rel='external nofollow' class='url'>Kristi Hines</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453812">
+			May 9, 2013 at 10:20 am</a>		</div>
+
+		<p>They&#8217;re not in any specific order Matthew. Mostly just how they appeared in my Feedly list which might be in order of when I subscribed. :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453812' onclick='return addComment.moveForm("div-comment-453812", "453812", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		<ul class='children'>
+		<li class="comment even depth-2" id="comment-454568">
+				<div id="div-comment-454568" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d8f93be0db028be7bfbd4fd377a7b020?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.matthewwoodward.co.uk' rel='external nofollow' class='url'>Matthew Woodward</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454568">
+			May 22, 2013 at 6:57 am</a>		</div>
+
+		<p>Maybe you should order them competitively :P</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454568' onclick='return addComment.moveForm("div-comment-454568", "454568", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+</ul>
+</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-453837">
+				<div id="div-comment-453837" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/480058d0d3c2fabec0c483ec00913999?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://atcore.dk/' rel='external nofollow' class='url'>Katrine Mehl</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453837">
+			May 10, 2013 at 4:42 am</a>		</div>
+
+		<p>This list just saved me several hours of research. Thank you so much!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453837' onclick='return addComment.moveForm("div-comment-453837", "453837", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-453921">
+				<div id="div-comment-453921" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/0cf4e50f54d6e03014806a52e7378dca?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.zcorum.com/blog' rel='external nofollow' class='url'>Jessica Holbrook</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453921">
+			May 11, 2013 at 2:48 pm</a>		</div>
+
+		<p>Great list. I have been following several of these already, but just found a few more gems&#8211;thanks to you!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453921' onclick='return addComment.moveForm("div-comment-453921", "453921", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-453970">
+				<div id="div-comment-453970" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/0ec94925d6075005bc73ef7df9302ecc?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Dave Desormeau</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453970">
+			May 12, 2013 at 8:55 pm</a>		</div>
+
+		<p>Hello Folks,  I&#8217;m looking for 5 highly motivated people this coming week who are truly interested in changing their lives&#8230; financially and personally. I will personally make a commitment of my time and energy to help YOU become successful and get you PAID! Disclaimer: I WILL NOT work with just anyone. I am only looking for people who will be committed and ready to take MASSIVE ACTION! Also, I will only take serious inquiries from people who truly want to change their lives and are looking to earn an extra $3,000-$5,000/mo. working 10-15 hours a week from home. or you can talk to me directly by sending me a &#8216;short&#8217; email as to why I should mentor you at the following address: &#8216;dave@davedesormeau.com</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453970' onclick='return addComment.moveForm("div-comment-453970", "453970", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-453996">
+				<div id="div-comment-453996" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f399941134f842cb5681f45b02662bd6?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://expressfilmmaker.blogspot.fr/' rel='external nofollow' class='url'>PauPerramon</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-453996">
+			May 13, 2013 at 6:20 am</a>		</div>
+
+		<p>Great blog list, Kristy,<br />
+How long did it take to write this huge post? Thanks for sharing!</p>
+<p>Pau</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-453996' onclick='return addComment.moveForm("div-comment-453996", "453996", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-454002">
+				<div id="div-comment-454002" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/9427b847a6b0444af3fea7d9b527c467?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.restolabs.com/' rel='external nofollow' class='url'>Mobile Online Ordering</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454002">
+			May 13, 2013 at 6:52 am</a>		</div>
+
+		<p>Online Ordering is the best option&#8230;it&#8217;s great</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454002' onclick='return addComment.moveForm("div-comment-454002", "454002", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-454065">
+				<div id="div-comment-454065" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/366eb1f39f58155ad9976292edf76b5c?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.financetimely.com/' rel='external nofollow' class='url'>FinanceTimely</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454065">
+			May 14, 2013 at 8:47 am</a>		</div>
+
+		<p>Its a Super list. Lot more things to know. Thanks for this great list.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454065' onclick='return addComment.moveForm("div-comment-454065", "454065", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-454068">
+				<div id="div-comment-454068" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/fab956ab8998143505217294e53cc691?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.shortstack.com' rel='external nofollow' class='url'>Sara</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454068">
+			May 14, 2013 at 10:28 am</a>		</div>
+
+		<p>Great round-up Kristi! Don&#8217;t forget ShortStack&#8217;s blog Socially Stacked, <a href="http://www.sociallystacked.com" rel="nofollow">http://www.sociallystacked.com</a></p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454068' onclick='return addComment.moveForm("div-comment-454068", "454068", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-454122">
+				<div id="div-comment-454122" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/90e9f0e3da33fcc221c66d4e0f167b6b?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.clickcentricseo.com/' rel='external nofollow' class='url'>Rose</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454122">
+			May 15, 2013 at 10:45 am</a>		</div>
+
+		<p>What a nice list! Please also include <a href="http://www.clickcentricseo.com/ecommerce-seo-search-engine-optimization-services.html" rel="nofollow">http://www.clickcentricseo.com/ecommerce-seo-search-engine-optimization-services.html</a> on your list. Thanks</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454122' onclick='return addComment.moveForm("div-comment-454122", "454122", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-454165">
+				<div id="div-comment-454165" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d9de8d6e0f712c22144e9b87bc6b6f1c?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.five-dollar.net' rel='external nofollow' class='url'>catywang</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454165">
+			May 16, 2013 at 6:16 am</a>		</div>
+
+		<p>great list , thank u so much</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454165' onclick='return addComment.moveForm("div-comment-454165", "454165", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-454203">
+				<div id="div-comment-454203" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/8e4638158ad835012e75a2157eb344ad?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='https://plus.google.com/102273790461756622017/posts' rel='external nofollow' class='url'>Brittany</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454203">
+			May 16, 2013 at 2:09 pm</a>		</div>
+
+		<p>This is a great list! Thanks for sharing.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454203' onclick='return addComment.moveForm("div-comment-454203", "454203", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-454345">
+				<div id="div-comment-454345" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/daed6895a9bc0c681c80f8e20bc0de20?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://internetbusinessmastermind.com/' rel='external nofollow' class='url'>Ralf Skirr</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454345">
+			May 19, 2013 at 1:01 pm</a>		</div>
+
+		<p>Awesome that you added the RSS Links to your post, saving your readers a lot time. Much appreciated!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454345' onclick='return addComment.moveForm("div-comment-454345", "454345", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-454370">
+				<div id="div-comment-454370" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/62022a153e1c1877a3157fb78762dcb8?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.themangomedia.com/' rel='external nofollow' class='url'>Hannahmaria</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454370">
+			May 20, 2013 at 3:48 am</a>		</div>
+
+		<p>Some of ht list listed blogs i read. All are very useful and interesting. Thanks for Sharing Kristi. My favorite part is seo, sem, smm, website optimization.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454370' onclick='return addComment.moveForm("div-comment-454370", "454370", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-454434">
+				<div id="div-comment-454434" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/65c8d043505504662810e1bf13e9a01c?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://folderprinters.com' rel='external nofollow' class='url'>Joseph Anzai</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454434">
+			May 21, 2013 at 6:34 am</a>		</div>
+
+		<p>Kristi &#8211; This list is spectacular. I imagine that it had to take quite a bit of time to put together. So thank you for that. I was reading through the comments and had seen Mixergy listed, bravo, this is one of my favorites. Another might be smartpassiveincome with Pat Flynn. I am extremely new at marketing on-line and have been asked to help grow our numbers at <a href="http://folderprinters.com" rel="nofollow">http://folderprinters.com</a> where we deal in a niche market of printing presentation folders, which I&#8217;m finding to be quite a daunting task based on this niche. So, thanks again, your  list is invaluable to newbies like myself.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454434' onclick='return addComment.moveForm("div-comment-454434", "454434", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-454529">
+				<div id="div-comment-454529" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/e5820feb6c27c92408e0dfbbea76af21?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://googlesniper1.com' rel='external nofollow' class='url'>http://googlesniper1.com/</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454529">
+			May 22, 2013 at 1:40 am</a>		</div>
+
+		<p>Hello just wanted to give you a brief heads up and let you know<br />
+a few of the images aren&#8217;t loading correctly. I&#8217;m not sure why but<br />
+I think its a linking issue. I&#8217;ve tried it in two different internet browsers and both show the same results.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454529' onclick='return addComment.moveForm("div-comment-454529", "454529", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-454852">
+				<div id="div-comment-454852" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f4ab9a8149396ecbe183c89ba5e27320?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.ppcadsmanagement.com' rel='external nofollow' class='url'>Sarmista Aun</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454852">
+			May 25, 2013 at 12:18 am</a>		</div>
+
+		<p>Hi  Kristi,<br />
+             Thanks for sharing this list of top 75 marketing blogs. It is extremely useful.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454852' onclick='return addComment.moveForm("div-comment-454852", "454852", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-454923">
+				<div id="div-comment-454923" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/a3f8061c9b3ec53ff91fbfcf939bd52d?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.hannesuys.com' rel='external nofollow' class='url'>Hannes Uys</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454923">
+			May 26, 2013 at 5:07 am</a>		</div>
+
+		<p>This is some epic list of resources! Wow! Added to my Favz &#8211; stat!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454923' onclick='return addComment.moveForm("div-comment-454923", "454923", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-454931">
+				<div id="div-comment-454931" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/216b3bffaf5ef91884acf61e4e4bdb4a?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://searchenginesniper.org' rel='external nofollow' class='url'>Christopher</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-454931">
+			May 26, 2013 at 9:31 am</a>		</div>
+
+		<p>This is an excellent list.  It&#8217;s a big time saver when you can connect to a lot of other relevant info from one centralized place.  Thank you!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-454931' onclick='return addComment.moveForm("div-comment-454931", "454931", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-455031">
+				<div id="div-comment-455031" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d6144c1993d73caa8f67d99b278402d4?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.LindyzBiz.com' rel='external nofollow' class='url'>Lindy Diffenbaugh</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-455031">
+			May 27, 2013 at 10:12 pm</a>		</div>
+
+		<p>Thanks for this excellent and extensive blog list! So much to read, so little time!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-455031' onclick='return addComment.moveForm("div-comment-455031", "455031", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-even depth-1" id="comment-455079">
+				<div id="div-comment-455079" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bidsketch.com/blog/leads/get-more-clients/' rel='external nofollow' class='url'>How to Land a High-Paying Freelance Client in the Next 2 Weeks</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-455079">
+			May 28, 2013 at 11:57 am</a>		</div>
+
+		<p>[...] industry] blogs&#8217; will often do the trick. You&#8217;ll likely stumble across mega-roundups like this one that will give you plenty of places to get featured [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-455079' onclick='return addComment.moveForm("div-comment-455079", "455079", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-455153">
+				<div id="div-comment-455153" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/1b87901e7c86b760a40041946a5e8f62?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.amulet-creations.com/digital-marketing.html' rel='external nofollow' class='url'>Digital Marketing Agency</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-455153">
+			May 29, 2013 at 5:37 am</a>		</div>
+
+		<p>thanks for posting useful information you have provided a list of blog this gonna be helpful for anyone</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-455153' onclick='return addComment.moveForm("div-comment-455153", "455153", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-455159">
+				<div id="div-comment-455159" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f195cb7bedbc1ee184bca3d467401b56?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://hooksandstitches.wordpress.com/' rel='external nofollow' class='url'>Davina</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-455159">
+			May 29, 2013 at 6:22 am</a>		</div>
+
+		<p>Thank you for posting this.  I&#8217;m a beginner blogger and I need all the help and suggestions I can get.  I was thinking about going back to school to learn all about blogging but I thanks to this list I won&#8217;t have to.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-455159' onclick='return addComment.moveForm("div-comment-455159", "455159", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-455435">
+				<div id="div-comment-455435" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/a40abdd1f3704fce2d84606df73fe2e0?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.sitnmove.com' rel='external nofollow' class='url'>Jason Mulholland</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-455435">
+			May 31, 2013 at 6:54 am</a>		</div>
+
+		<p>Hi Kristi,</p>
+<p>You gotta consider Ryan Hanley at <a href="http://www.ryanhanley.com" rel="nofollow">http://www.ryanhanley.com</a> for next year.  Some say he&#8217;s an upcomer, but great stuff already there.  </p>
+<p>Jason</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-455435' onclick='return addComment.moveForm("div-comment-455435", "455435", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-455516">
+				<div id="div-comment-455516" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/3abe70debdbc5f352d412cf482a4f5a6?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://goo.gl/TOdZT' rel='external nofollow' class='url'>Clark Donaldson</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-455516">
+			June 1, 2013 at 4:30 am</a>		</div>
+
+		<p>Great post. I just located your blog and wished to let you know that I have certainly loved reading your blogs. At any rate I’m going to be subscribing to your feed and I really hope you are writing again soon.<a> Penny Matrix</a></p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-455516' onclick='return addComment.moveForm("div-comment-455516", "455516", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="pingback even thread-odd thread-alt depth-1" id="comment-455545">
+				<div id="div-comment-455545" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.matthewwoodward.co.uk/income-report/monthly-income-growth-traffic-report-may-2013/' rel='external nofollow' class='url'>Monthly Income, Growth &amp; Traffic Report - May 2013</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-455545">
+			June 1, 2013 at 8:10 am</a>		</div>
+
+		<p>[...] was listed in the Unbounce Top 75 Internet Marketing Blogs &#8211; apparently they weren&#8217;t in any specific order which sucks. Hopefully they publish a [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-455545' onclick='return addComment.moveForm("div-comment-455545", "455545", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-455572">
+				<div id="div-comment-455572" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/8026390550a4d58b564b6b7d0f98520c?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.loyalgroundmarketing.com' rel='external nofollow' class='url'>Tywon</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-455572">
+			June 1, 2013 at 1:37 pm</a>		</div>
+
+		<p>Thank you for sharing this awesome list. This a great read.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-455572' onclick='return addComment.moveForm("div-comment-455572", "455572", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-455771">
+				<div id="div-comment-455771" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/fc6a0c51938560f2de29626a0f669f23?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://techtage.com' rel='external nofollow' class='url'>Rohit Palit</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-455771">
+			June 4, 2013 at 4:24 am</a>		</div>
+
+		<p>Great list. I&#8217;m definitely gonna bookmark this one. :)</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-455771' onclick='return addComment.moveForm("div-comment-455771", "455771", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-456016">
+				<div id="div-comment-456016" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/e74bc5bf15b5dcfcc534211bf53354e7?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.neobux.com/?rh=73757072616E6931393037' rel='external nofollow' class='url'>Online Marketing</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-456016">
+			June 7, 2013 at 8:34 am</a>		</div>
+
+		<p>Awesome list, I will follow this for sure</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-456016' onclick='return addComment.moveForm("div-comment-456016", "456016", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-456228">
+				<div id="div-comment-456228" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/7c496f8f4a2ff90f65e3b0ce15c6d1f7?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.makemycontent.com/' rel='external nofollow' class='url'>Anisha</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-456228">
+			June 9, 2013 at 12:26 pm</a>		</div>
+
+		<p>This post has given an in depth information about marketing, to me its an informative post.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-456228' onclick='return addComment.moveForm("div-comment-456228", "456228", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-456367">
+				<div id="div-comment-456367" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/5cd84081de1be7faaeeb2e9848a16278?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.thinkbigonline.com/social-media-marketing/' rel='external nofollow' class='url'>smo services sydney</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-456367">
+			June 11, 2013 at 9:54 pm</a>		</div>
+
+		<p>I am happy to have found your blogs.It is really great.I learn new things from your website.I like your thoughts.Thanks for making such a cool post.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-456367' onclick='return addComment.moveForm("div-comment-456367", "456367", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-456757">
+				<div id="div-comment-456757" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d16ecdf64997338637c3a6f7b1923ea8?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://egramin.in/' rel='external nofollow' class='url'>internet marketing</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-456757">
+			June 17, 2013 at 6:13 am</a>		</div>
+
+		<p>Your post is quite impressive but i want to add two more points in your post and that is video marketing and press release marketing. The two marketing strategy can bring you a large number of traffic and business to your site. If a video goes viral then you will get tons of traffic through that video.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-456757' onclick='return addComment.moveForm("div-comment-456757", "456757", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-456760">
+				<div id="div-comment-456760" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f63d7d47b3741ca8353f00212818476d?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.mysocialmediafoundations.com/revsharethis-launches-on-sunday/' rel='external nofollow' class='url'>irene</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-456760">
+			June 17, 2013 at 7:29 am</a>		</div>
+
+		<p>Thanks for your post its very important to put all the pieces of the jigsaw together when building your blog and your list of tools is a great help</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-456760' onclick='return addComment.moveForm("div-comment-456760", "456760", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-456779">
+				<div id="div-comment-456779" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/af0e0c7cf8154c80204d8b512364a252?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.cheapwebsolutions.co.uk/' rel='external nofollow' class='url'>Andy</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-456779">
+			June 17, 2013 at 8:30 am</a>		</div>
+
+		<p>Great selection! Usually sites doing a roundup of blogs just cram them all together, but you have taken the time to categorise them into helpful sections. Thanks!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-456779' onclick='return addComment.moveForm("div-comment-456779", "456779", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-456841">
+				<div id="div-comment-456841" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/97bc4a3e4132940875477acaf776400b?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.kentmarketingblog.com' rel='external nofollow' class='url'>kent</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-456841">
+			June 18, 2013 at 4:54 am</a>		</div>
+
+		<p>Hi,<br />
+great, marvelous weblog format! How lengthy have you ever been blogging for? you made blogging look easy. i’m glad reading your article. But wanna remark on few general things, The site style is wonderful, the articles is really excellent,enjoyed this one appreciate it for putting up.<a href="http://www.kentmarketingblog.com/services/seo-services/" rel="nofollow">SEO Kent</a> </p>
+<p>Thanks</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-456841' onclick='return addComment.moveForm("div-comment-456841", "456841", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-456844">
+				<div id="div-comment-456844" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/0f43ab1593f098a952d4aa3d67e3495d?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.rightcopywriter.com/' rel='external nofollow' class='url'>John Kohli</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-456844">
+			June 18, 2013 at 5:21 am</a>		</div>
+
+		<p>Hey Kristi, this an amazing and exhaustive list. Thanks for taking the trouble to compile this list. Blog writers now have a busy schedule ahead.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-456844' onclick='return addComment.moveForm("div-comment-456844", "456844", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-457248">
+				<div id="div-comment-457248" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/decc8e026add9b9900d5a5d15a3d5dcc?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.sutrimo.com' rel='external nofollow' class='url'>Blogger wonosobo</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-457248">
+			June 21, 2013 at 6:16 pm</a>		</div>
+
+		<p>nice info thank&#8217;s for your post..</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-457248' onclick='return addComment.moveForm("div-comment-457248", "457248", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-457349">
+				<div id="div-comment-457349" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/1b3171e1a9f2dc67f84ef57ea258c163?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.kinamu.com' rel='external nofollow' class='url'>Alexander Surowiec</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-457349">
+			June 23, 2013 at 9:01 am</a>		</div>
+
+		<p>Great selection! Thx a lot!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-457349' onclick='return addComment.moveForm("div-comment-457349", "457349", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-even depth-1" id="comment-457451">
+				<div id="div-comment-457451" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.williamdelaporte.com/monthly-income-growth-traffic-report-may-2013/' rel='external nofollow' class='url'>Monthly Income, Growth &amp; Traffic Report – May 2013 | williamdelaporte.com</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-457451">
+			June 25, 2013 at 3:10 am</a>		</div>
+
+		<p>[...] was listed in the Unbounce Top 75 Internet Marketing Blogs &#8211; apparently they weren&#8217;t in any specific order which sucks. Hopefully they publish a [...]</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-457451' onclick='return addComment.moveForm("div-comment-457451", "457451", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-457665">
+				<div id="div-comment-457665" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/225317b2bcf0d43927cc2d666ef6fdb1?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.bbomja.com.br' rel='external nofollow' class='url'>Gustavo</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-457665">
+			June 27, 2013 at 11:06 pm</a>		</div>
+
+		<p>Pessoal, eu estou aqui para deixar um recado para você que deseja prosperar na internet. Eu comecei a ganhar dinheiro faz 3 meses e tenho como provar isto através do meu extrato onde ganhei mais de 160 mil reais em 3 meses. Sou de SP e no meu site tem o meu telefone e explicações detalhadas de como voce irá fazer para poder começar a divulgar o negócio Bbom.  Voce terá meu skype, meu telefone e pdoerá comprovar o que eu estou dizendo. Acesse o meu site e veja como <a href="http://www.bbomja.com.br" rel="nofollow">http://www.bbomja.com.br</a><br />
+Aguardo seu contato Paulo Henrique.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-457665' onclick='return addComment.moveForm("div-comment-457665", "457665", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-even depth-1" id="comment-457839">
+				<div id="div-comment-457839" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/78abc88113320e1a53ddaed91c0f6853?s=32&amp;d=blank&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">phanxlz</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://unbounce.com/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#comment-457839">
+			June 29, 2013 at 8:10 pm</a>		</div>
+
+		<p>You&#8217;d think that megapublisher Activision would be investing more in mobile game development. After all, everyone says mobile games are the future. </p>
+<p>But even as companies like Supercell, GungHo and DeNA making large-scale cash on mobile games, Activision Publishing CEO Eric Hirshberg says his company is taking a measured approach to the space. </p>
+<p>So the question is, with Activision&#8217;s resources, and solid proof that a company can bring in very meaningful revenues via mobile, why hasn&#8217;t the company tried to really capitalize on the vast mobile game market? </p>
+<p>&#8220;Currently, we&#8217;re primarily using mobile as a way to enhance the experience of our core franchises, not as a new alternate core business for us,&#8221; says Hirshberg. &#8220;We know what we&#8217;re good at. We&#8217;re good at making highly immersive, high-production value games that people play for hours and hours. </p>
+<p>&#8220;Right now, that doesn&#8217;t describe the mobile game environment, for the most part. Eg: <a href="http://tai-zingmp3.com/" / rel="nofollow">tai mp3 zing</a>. That&#8217;s not an indictment of mobile games, it&#8217;s simply a description of whether or not it&#8217;s the right place for us to focus our primary energies.&#8221; </p>
+<p>Activision&#8217;s primary energies are spent on retail-centric, big-budget games that take years to complete, require tens of millions of marketing and development dollars, and lend themselves to franchise-ability. Activision is in the empire business, and that business happens mainly on game consoles and PC. </p>
+<p>The few games that Activision has brought to mobiles have been strong entries, but it&#8217;s hard to imagine they move the needle at company that makes hundreds of millions of dollars with franchises like Skylanders and Call of Duty. On mobile, games like Call of Duty: Black Ops Zombies, Skylanders Lost Island and a Pitfall remake did well for Activision, but certainly aren&#8217;t the kind of breadwinners like Supercell&#8217;s Hay Day or GungHo&#8217;s Puzzle &amp; Dragons. </p>
+<p>Those mobile game companies in particular make ridiculous amounts of money: Supercell reportedly was making $2.4 million per day off of two games as of April this year. GungHo was reportedly making $3.76 million per day off of just one game as of May. Electronic Arts has been making sure to invest more heavily in mobile, and has seen some success as well, most recently with The Simpsons: Tapped Out. </p>
+<p>Hirshberg says &#8220;of course&#8221; Activision is keeping a close eye on those large-scale success stories. But those success stories are rare. &#8220;I&#8217;m glad to see companies have success at a larger scale in that environment,&#8221; he says. &#8220;A couple years ago, that wasn&#8217;t happening. </p>
+<p>&#8220;At the same time, the percentage of companies capable of achieving that scale is very low in that business. And even more so, the percentage of companies that are able to create any kind of franchise effect is even lower &#8212; meaning the top hits tend to rotate out every couple of months in that world. Even of] huge hits like Angry Birds are now in different businesses, like franchising.&#8221; </p>
+<p>For Activision, and other large game companies with roots in retail, the focus for now will remain on long-term franchises that players can attach themselves to for years. </p>
+<p>Even though Activision has thrown relatively little investment toward mobile games, Hirshberg admits, &#8220;You can&#8217;t deny the size of the installed base. There are a lot of these devices out there.&#8221;</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='#comment-457839' onclick='return addComment.moveForm("div-comment-457839", "457839", "respond", "15075")'>Reply</a>		</div>
+				</div>
+		</li>
+	</ol>
+
+
+ 
+
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/online-marketing/75-marketing-blogs-to-make-your-rss-reader-more-fat/#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://unbounce.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author"><small>Name (required)</small></label>
+<input type="text" name="author" id="author" value="" size="22" tabindex="1" aria-required='true' />
+</p>
+
+<p><label for="email"><small>Email (will not be published) (required)</small></label>
+<input type="text" name="email" id="email" value="" size="22" tabindex="2" aria-required='true' />
+</p>
+
+<p><label for="url"><small>Website</small></label>
+<input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+</p>
+
+
+
+<p><textarea name="comment" id="comment" style="width:400px;" rows="5" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit-comment" tabindex="5" value="Submit Comment" />
+</p>
+<input type='hidden' name='comment_post_ID' value='15075' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="3087c75f9b" /></p><p><input type="checkbox" name="comment_mail_notify" id="comment_mail_notify" value="comment_mail_notify" style="width: auto;" /><label for="comment_mail_notify">Notify me of follow-up comments via e-mail</label></p>
+</form>
+
+</div>
+
+</div>
+
+</div>
+							
+						<!--<div class="tags"></div>-->
+					</div>
+			
+			 	</div>
+		  	</div>
+		 	</div>
+		  	<div class="bottomleft">
+		 	<div class="bottomright">
+		  	</div>
+		  	</div>
+		</div>
+	
+			
+			
+	
+
+</div>
+
+
+
+	
+<div id="sidebar-blog">
+  		
+<div class="bottom-cta-blue clearfix">
+<a href="http://try.unbounce.com/blog-all/" target="_blank" id="km-sidebar-cta"><img src="http://unbounce.wpengine.netdna-cdn.com/wp-content/themes/unbounce2/images/Unbounce-blog-sidebar-cta.png" /></a>
+</div>
+
+
+
+	
+  
+
+	
+	
+	<div class="top-cat-posts clearfix">
+		<h4>Subscribe to our Conversion Blog for Optimization Tips</h4>
+		
+<form action="http://unbounce.us2.list-manage2.com/subscribe/post" method="post" target="_blank">
+<input type="hidden" name="u" value="62edec8cc291d9dc2068e997e">
+<input type="hidden" name="id" value="7f9f125ccc">
+<!-- Frequency = Daily -->
+<input type="hidden" value="2" name="group[11101]" id="mce-group[11101]-11101-0">
+<!-- Source = Sidebar -->
+<input type="hidden" value="16" name="group[11125]" id="mce-group[11125]-11125-0">
+
+
+	<div class="form-l"><p><input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="Enter your email address..." onfocus="if (this.value == 'Enter your email address...') {this.value='';}" onblur="if (this.value == '') {this.value='Enter your email address...';}">
+</p></div><input type="submit" class="email-cta" value="Subscribe to the Blog" /></form>
+	</div>
+		 
+
+	
+
+	
+	<div class="top-cat-posts clearfix">
+		<h4>Search The Blog</h4>
+		
+		<div class="search clearfix">
+			
+	
+<form method="get" id="searchform" class="blog-search" role="search" action="http://unbounce.com/">
+<div class="form-l">
+	<input type="text" name="s" id="s" value="Enter a search term..." onfocus="if (this.value == 'Enter a search term...') {this.value='';}" onblur="if (this.value == '') {this.value='Enter a search term...';}">
+</div>
+<div class="clear"><button type="submit" alt="&nbsp;" id="searchsubmit" class="email-cta">Search</button></div>
+</form>
+		</div>
+		
+	</div>
+	
+	<div class="top-cat-posts clearfix">
+		<h4>Top Conversion &amp; Marketing Blog Posts</h4>
+		<ul>
+			<li><a href="http://unbounce.com/landing-page-examples/built-using-unbounce/landing-page-designs/" title="26 Beautiful Landing Page Examples With A/B Testing Advice" target="_blank">26 Beautiful Landing Page Examples With A/B Testing Advice</a></li>
+			<li><a href="http://unbounce.com/conversion-rate-optimization/design-principles-increase-conversions/" title="[How to] Use Design Principles to Increase Conversions">[How to] Use Design Principles to Increase Conversions</a></li>
+			<li><a href="http://unbounce.com/landing-page-examples/built-using-unbounce/beautiful-landing-page-design-examples/" title="35 Beautiful Landing Page Design Examples to Drool Over [With Critiques]">35 Beautiful Landing Page Design Examples to Drool Over [With Critiques]</a></li>
+			<li><a href="http://unbounce.com/landing-pages/checklist/" title="A 50-Point Checklist For Creating The Ultimate Landing Page">A 50-Point Checklist For Creating The Ultimate Landing Page</a></li>
+			<li><a href="http://unbounce.com/landing-pages/perfect-landing-page-recipe/" title="A Recipe for the Perfect Landing Page">A Recipe for the Perfect Landing Page</a></li>
+			<li><a href="http://unbounce.com/online-marketing/2012-marketing-stats/" title="The 52 Most Interesting Marketing Stats of 2012 [Tweetables]">The 52 Most Interesting Marketing Stats of 2012 [Tweetables]</a></li>
+		</ul>
+	</div>
+
+
+
+</div></div>
+
+<div class="clear"></div>
+ 	
+<div id="footer">
+
+	<div id="footer-container">
+
+		 
+		<!-- 
+		<div id="footer-cta" class="clearfix">
+			<div class="cta-text">Get more clicks, leads and conversions on your landing pages. <a href="http://go.unbounce.com/pricing/">Start a 30-Day Trial.</a></div>
+		</div>
+		-->
+		 
+		<div id="footer-copyright">
+			Copyright 2013 Unbounce Marketing Solutions Inc. <span><a href="/privacy/">Privacy Policy</a> | <a href="/terms-of-service/">Terms Of Service</a></span>
+		</div>
+		
+		
+		
+		
+		<div id="footer-sitemap" class="footer-sitemap">
+			<div>
+				<ul>
+					<li><a href="http://unbounce.com/what-is-unbounce/about/">About</a></li>
+					<li><a href="http://unbounce.com/benefits/">Benefits</a></li>
+					<li><a href="http://careers.unbounce.com/">Careers</a></li>
+					<li><a href="http://unbounce.com/support/contact-us/">Contact Us</a></li>
+					<!--<li><a href="http://unbounce.com/worthy-causes/">Not-for-profit &amp; Charities</a></li>-->
+				</ul>
+			</div>
+			<div class="footer-sep"></div>
+			<div>
+				<ul>
+					<li><a href="http://unbounce.com/blog/">Conversion Marketing Blog</a></li>
+					<li><a href="http://unbounce.com/customer-case-studies/">Customer Case Studies</a></li>
+					<!--<li><a href="http://unbounce.com/101-landing-page-optimization-tips/">101 Landing Page Optimization Tips</a></li>-->
+					<li><a href="http://unbounce.com/landing-page-articles/home/">Landing Page Articles</a></li>
+					<li><a href="http://unbounce.com/ppc-landing-pages/">PPC &amp; Landing Pages</a></li>
+				
+				</ul>
+			</div>
+			<div class="footer-sep"></div>
+			<div>
+				<ul>
+					<li><a href="http://support.unbounce.com">Support</a></li>
+					<li><a href="http://unbounce.com/support/forum/">Community Forum</a></li>
+					<li><a href="http://support.unbounce.com">Knowledge Base</a></li>
+					<li><a href="https://api.unbounce.com/" target="_blank">The Unbounce API</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="footer-sitemap-right" class="clearfix footer-sitemap">
+			<div>
+				<ul>
+					<li><a href="http://unbounce.com/support/contact-us" title="Contact Unbounce">Get In Touch</a></li>
+					<li><a href="http://twitter.com/unbounce">Twitter</a></li>
+					<li><a href="http://www.facebook.com/unbounce">Facebook</a></li>
+					<li>1.888.515.9161</li>
+				</ul>
+			</div>
+		</div>
+		
+		
+	</div>
+	
+</div>
+
+
+<script type="text/javascript">strx.start({"content":"#blog-content","sidebar":"#social-sidebar","wait":"3000","debounce":"0","animate":"0","offsetTop":"30","offsetBottom":"0","debug":0,"outline":0,"findids":0,"dynamicTop":"","jsInHead":"","minHDiff":"0"});</script>
+
+
+
+<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/2825.js"> </script>
+
+
+
+<!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- KISSmetrics Start -->
+	<script type="text/javascript">
+	  var _kmq = _kmq || [];
+	  function _kms(u){
+	    setTimeout(function(){
+	      var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;
+	      s.src = u; f.parentNode.insertBefore(s, f);
+	    }, 1);
+	  }
+	  _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/59a84baa0cbc792b9d9626010302cf9c55c09daa.1.js');
+	</script>
+<!-- KISSmetrics End -->
+	
+<!-- KM Scripts -->
+
+<script>
+  _kmq.push(['trackClick', 'km-sidebar-cta', 'web-blog-sidebar-cta']);
+</script>
+
+</body>
+</html>
+
+	 

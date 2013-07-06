@@ -1,0 +1,288 @@
+help.search("deviation")
+1 + 1
+"Arr, matey!"
+6*7
+3<4
+4>3
+4>5
+2+2==5
+T==TRUE
+T==False
+sum(1,3,5)
+4:82
+vesselSunk <- c(4, 5, 1)
+barplot(vesselSunk)
+marcusway <- (10, 2, 6, 4)
+marcusway <- c(10, 2, 6, 4)
+barplot(marcusway)
+a <- 1:25
+matrix(a, 5, 5)
+a <- ("marcus", "eats", "poop")
+a <- c("marcus", "eats", "poop")
+matrix(a, 3, 3)
+b <- c("mia", "is", "stupid")
+matrix(a, b, 10, 10)
+matrix(b, 10, 10)
+c(1,2,3)
+c(10,1,2,3)
+(1,2,3)
+matrix(c(1,2,3))
+x <- c(1,4,7,10)
+matrix(x, 100,100)
+g < c("marcus", "is", "really", "poopy")
+g <- c("marcus", "is", "really", "poopy")
+matrix(g, 4, 4)
+g <- ("marcus", "is", "poop")
+g <- c("marcus", "is", "poop")
+c
+c.info
+c.__doc__
+g
+help(c)
+list.files()
+print[4]
+list.files(4)
+list.files[4]
+list.files("Dropbox")
+list.files(M & I)
+list.files("M &I")
+list.files("Getting Started.pdf")
+list.files("Photos")
+list.files("Documents")
+list.files("Isabella,Patton.Resume.pdf")
+open.filename("Isabella,Patton.Resume.pdf")
+open.file("Isabella,Patton.Resume.pdf")
+read.pdf("Isabella,Patton.Resume.pdf")
+list.files("SPSSInc")
+read("starbuzz")
+install.packages("ggplot2")
+wine <- read.table("http://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data", sep=",")
+wine <- read.table("/Users/Isabellapatton/Desktop/wine.csv", sep=",")
+wine
+scatterplotMatrix(car)
+install.car
+library(car)
+install("car")
+install.package
+package:car
+search(package:car)
+search("package:car")
+search(list)
+install.packages("car")
+library("car")
+install.packages("MASS")
+install.packages("nnet")
+library("car")
+wine[2:6]
+scatterplotMatrix(wine[2:6])
+plot(wine$V4, wine$V5)
+install.packages("RColorBrewer")
+makeProfilePlot <- function(mylist,names)
+{ }
+makeProfilePlot <- function(mylist,names)
+{require (RColorBrewer) }
+makeProfilePlot <- function(mylist,names)
+require(RColorBrewer)
+numvariables <- length(mylist)
+text(wine$V4, wine$V5, wine$V1, cex=0.7, pos=4, col="red")
+makeProfilePlot <- function(mylist,names)
+require(RColorBrewer)
+numvariables <- length(mylist)
+colours <- brewer.pal(numvariables,"Set1")
+makeProfilePlot <- function(mylist,names) {require(RColorBrewer)# find out how many variables we want to includenumvariables <- length(mylist) # choose ’numvariables’ random colours colours <- brewer.pal(numvariables,"Set1") # find out the minimum and maximum values of the variables: mymin <- 1e+20 mymax <- 1e-20 for (i in 1:numvariables) {vectori <- mylist[[i]] mini <- min(vectori) maxi <- max(vectori) if (mini < mymin) { mymin <- mini } if (maxi > mymax) { mymax <- maxi }}
+plot the variablesfor (i in 1:numvariables) {}}}vectori <- mylist[[i]] namei <- names[i] colouri <- colours[i] if (i == 1) { plot(vectori,col=colouri,type="l",ylim=c(mymin,mymax)) } else	{ points(vectori, col=colouri,type="l")lastxval <- length(vectori) lastyval <- vectori[length(vectori)] text((lastxval-10),(lastyval),namei,col="black",cex=0.6)
+makeProfilePlot <- function(mylist,names)
+require (RColorBrewer) numvariables <- length(mylist) colours
+makeProfilePlot <- function(mylist,names)
+{require(RColorBrewer)}
+{require(RColorBrewer) numvariables <- length(mylist)}
+makeProfilePlot <- function(mylist,names) {require(RColorBrewer)# find out how many variables we want to includenumvariables <- length(mylist) # choose ’numvariables’ random colours colours <- brewer.pal(numvariables,"Set1") # find out the minimum and maximum values of the variables: mymin <- 1e+20 mymax <- 1e-20 for (i in 1:numvariables) {vectori <- mylist[[i]] mini <- min(vectori) maxi <- max(vectori) if (mini < mymin) { mymin <- mini } if (maxi > mymax) { mymax <- maxi }# plot the variablesfor (i in 1:numvariables) {}}}vectori <- mylist[[i]] namei <- names[i] colouri <- colours[i] if (i == 1) { plot(vectori,col=colouri,type="l",ylim=c(mymin,mymax)) } else	{ points(vectori, col=colouri,type="l")lastxval <- length(vectori) lastyval <- vectori[length(vectori)] text((lastxval-10),(lastyval),namei,col="black",cex=0.6)
+makeProfilePlot <- function(mylist,names) {require(RColorBrewer)# find out how many variables we want to includenumvariables <- length(mylist) # choose ’numvariables’ random colours colours <- brewer.pal(numvariables,"Set1") # find out the minimum and maximum values of the variables: mymin <- 1e+20 mymax <- 1e-20 for (i in 1:numvariables) {vectori <- mylist[[i]] mini <- min(vectori) maxi <- max(vectori) if (mini < mymin) { mymin <- mini } if (maxi > mymax) { mymax <- maxi } # plot the variables for (i in 1:numvariables) { vectori <- mylist[[i]] namei <- names[i] colouri <- colours[i] if (i == 1) { plot(vectori,col=colouri,type="l",ylim=c(mymin,mymax)) } else	{ points(vectori, col=colouri,type="l")lastxval <- length(vectori) lastyval <- vectori[length(vectori)] text((lastxval-10),(lastyval),namei,col="black",cex=0.6)}}
+library(RColorBrewer)
+names <- c("V2", "V3", "V4", "V5", "V6")
+mylist <- list(wine$V2,wine$V3,wine$V4,wine$V5,wine$V6)
+makeProfilePlot(mylist,names)
+]
+library(RColorBrewer)
+names <- c("V2","V3","V4","V5","V6")
+mylist <- list(wine$V2,wine$V3,wine$V4,wine$V5,wine$V6)
+makeProfilePlot(mylist,names)
+sapply(wine[2:14],mean)
+sapply(wine[2:14], sd)
+cultivar2wine <- wine[wine$V1=="2"]
+cultivar2wine <- wine[wine$V1=="2",]
+sapply(cultivar2wine[2:14],mean)
+calcWithinGroupsVariance <- function(variable,groupvariable) #
+{#
+    # find out how many values the group variable can take#
+    groupvariable2 <- as.factor(groupvariable[[1]]) levels <- levels(groupvariable2) numlevels <- length(levels) # get the mean and standard deviation for each group: #
+    numtotal <- 0#
+    denomtotal <- 0 #
+    for (i in 1:numlevels) #
+    {#
+        leveli <- levels[i] #
+        levelidata <- variable[groupvariable==leveli,] #
+        levelilength <- length(levelidata) #
+        # get the standard deviation for group i: #
+        sdi <- sd(levelidata) #
+        numi <- (levelilength - 1)*(sdi * sdi) #
+        denomi <- levelilength #
+        numtotal <- numtotal + numi #
+        denomtotal <- denomtotal + denomi#
+    }#
+	# calculate the within-groups variance#
+	Vw <- numtotal / (denomtotal - numlevels)#
+	return(Vw)#
+}
+calcWithinGroupsVariance <- function(variable,groupvariable) #
+{#
+    # find out how many values the group variable can take#
+    groupvariable2 <- as.factor(groupvariable[[1]]) #
+    levels <- levels(groupvariable2) #
+    numlevels <- length(levels) #
+    # get the mean and standard deviation for each group: #
+    numtotal <- 0#
+    denomtotal <- 0 #
+    for (i in 1:numlevels) #
+    {#
+        leveli <- levels[i] #
+        levelidata <- variable[groupvariable==leveli,] #
+        levelilength <- length(levelidata) #
+        # get the standard deviation for group i: #
+        sdi <- sd(levelidata) #
+        numi <- (levelilength - 1)*(sdi * sdi) #
+        denomi <- levelilength #
+        numtotal <- numtotal + numi #
+        denomtotal <- denomtotal + denomi#
+    }#
+	# calculate the within-groups variance#
+	Vw <- numtotal / (denomtotal - numlevels)#
+	return(Vw)#
+}
+> calcBetweenGroupsVariance <- function(variable,groupvariable) #
+{#
+    # find out how many values the group variable can take#
+    groupvariable2 <- as.factor(groupvariable[[1]]) #
+    levels <- levels(groupvariable2) #
+    numlevels <- length(levels) #
+    # calculate the overall grand mean:#
+    grandmean <- mean(variable) #
+    # get the mean and standard deviation for each group: #
+    numtotal <- 0 #
+    denomtotal <- 0 #
+    for (i in 1:numlevels) #
+    {#
+        leveli <- levels[i] #
+        levelidata <- variable[groupvariable==leveli,] #
+        levelilength <- length(levelidata) #
+        # get the mean and standard deviation for group i: #
+        meani <- mean(levelidata) #
+        sdi <- sd(levelidata) #
+        numi <- levelilength * ((meani - grandmean)^2) #
+        denomi <- levelilength #
+        numtotal <- numtotal + numi #
+        denomtotal <- denomtotal + denomi#
+    }#
+    # calculate the between-groups variance#
+    Vb <- numtotal / (numlevels - 1) #
+    Vb <- Vb[[1]] #
+    return(Vb)#
+}
+calcBetweenGroupsVariance <- function(variable,groupvariable) #
+{#
+    # find out how many values the group variable can take#
+    groupvariable2 <- as.factor(groupvariable[[1]]) #
+    levels <- levels(groupvariable2) #
+    numlevels <- length(levels) #
+    # calculate the overall grand mean:#
+    grandmean <- mean(variable) #
+    # get the mean and standard deviation for each group: #
+    numtotal <- 0 #
+    denomtotal <- 0 #
+    for (i in 1:numlevels) #
+    {#
+        leveli <- levels[i] #
+        levelidata <- variable[groupvariable==leveli,] #
+        levelilength <- length(levelidata) #
+        # get the mean and standard deviation for group i: #
+        meani <- mean(levelidata) #
+        sdi <- sd(levelidata) #
+        numi <- levelilength * ((meani - grandmean)^2) #
+        denomi <- levelilength #
+        numtotal <- numtotal + numi #
+        denomtotal <- denomtotal + denomi#
+    }#
+    # calculate the between-groups variance#
+    Vb <- numtotal / (numlevels - 1) #
+    Vb <- Vb[[1]] #
+    return(Vb)#
+}
+calcBetweenGroupsVariance (wine[2],wine[1])
+help(sum)
+sum(a, na.rm = TRUE)
+sum(...,na.rm = TRUE)
+sum(calcBetweenGroupsVariance,na.rm = TRUE)
+sum(calcBetweenGroupsVariance(wine[2],wine[1]), na.rm = TRUE)
+calcBetweenGroupsVariance(wine[2],wine[1], na.rm = TRUE)
+calcBetweenGroupsVariance (wine[2],wine[1])
+source("http://bioconductor.org/biocLite.R")
+biocLite("yeastExpData")
+cd
+blogs <- read.table("blog_sheet.csv", sep=",")
+blogs <- read.table("/documents/Github/ipatton.github.io/blog_data.csv")
+blogs <- read.table("blog_data.csv")
+blogs <- read.table("blog_data.csv", sep",")
+blogs <- read.table("blog_data.csv", sep",")
+blogs <- read.table("blog_data.csv")
+blogs
+blogs <- read.table("blog_data.csv")
+blogs
+library("car")
+install("MASS")
+install.packages("MASS")
+install.packages("nnet")
+install.packages("car")
+library("car")
+scatterplotMatrix(blogs[2:3])
+blogs <- read.table("blog_data.csv", sep=",")
+blogs
+scatterplotMatrix(blogs[2:3])
+plot(blogs$V2, blogs$V3)
+plot(blogs$V2, blogs$V3)
+makeProfilePlot <- function(mylist,names) #
+{#
+    require(RColorBrewer)#
+     # find out how many variables we want to include#
+	numvariables <- length(mylist)#
+	 # choose ’numvariables’ random colours#
+	colours <- brewer.pal(numvariables,"Set1")#
+	 # find out the minimum and maximum values of the variables: #
+	mymin <- 1e+20#
+	mymax <- 1e-20#
+	for (i in 1:numvariables)#
+	{#
+		vectori <- mylist[[i]]#
+		mini <- min(vectori)#
+		maxi <- max(vectori)#
+		if (mini < mymin) { mymin <- mini } #
+		if (maxi > mymax) { mymax <- maxi }#
+	}#
+	 # plot the variables#
+	for (i in 1:numvariables) #
+	{#
+		vectori <- mylist[[i]]#
+		namei <- names[i]#
+		colouri <- colours[i]#
+		if (i == 1) { plot(vectori,col=colouri,type="l",ylim=c(mymin,mymax)) } else { points(vectori, col=colouri,type="l")#
+		lastxval <- length(vectori)#
+		lastyval <- vectori[length(vectori)]#
+		text((lastxval-10),(lastyval),namei,col="black",cex=0.6)#
+	}#
+}
+library(RcolorBrewer)
+names <- c("V2","V3")
+mylist <- list(blogs$V2,blogs$V3)
+makeProfilePlot(mylist,names)
+g()
+q(0)
+q()

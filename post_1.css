@@ -72,28 +72,6 @@ header {
 	height:70px;
 }
 
-#bracket-left, #bracket-right {
-	font-size: 110px;
-	line-height: 70px;
-	height: 80px;
-	display: block;
-	text-align: baseline;
-	color: #ddd;
-	margin-top: 10px;
-}
-
-#bracket-left {
-	float: left;
-	margin-left: 20%;
-	margin-top: -75px;
-}
-
-#bracket-right {
-	float: right;
-	margin-right: 20%;
-	margin-top: -75px;
-}
-
 p {
 	font-size:22px;
 	line-height:1.1em;
@@ -126,68 +104,10 @@ h1 {
    	margin-bottom: 20px;
 }
 
-h2{
-	font-size:30px;
-	margin: 20px 0 15px 0;
-   	text-align: center; 
-   	color: #4682B4;
-   	font-weight: bold;
-   	margin-left: 20%;
-	margin-right: 20%; 
-}
-
-h3 {
-	text-align: center;
-	color: #4682B4;
-	border: none;
-	font-size: 22px;
-	margin-left: 25%;
-	margin-right: 25%;
-}
-
-h4 {
-	text-align: center;
-	color: #4682B4;
-	border: none;
-	font-size: 18px;
-	margin-left: 25%;
-	margin-right: 25%;
-}
-
-li {
-	list-style: none;
-}
-
-a {
-	text-decoration: none;
-	color:black;
-	font-weight:bold;
-}
-
-a:hover {
-	color: #4682B4;
-}
-
-#lab {
-	color: #4682B4;
-}
-
-#lab:hover {
-	color: #00008B;
-}
-
-
-aside {
-	width: 400px;
-	float:right;
-	margin-top: 50px;
-}
-
 .post_meta {
 	margin: auto;
 	text-align: center;
 	border-radius: 5px;
-	margin-top: 10%;
 	padding-top: 30px;
 }
 
@@ -233,19 +153,51 @@ h5.title {
 
 }
 
+.read_more {
+	clear: both; 
+	display: inline-block;
+	margin: auto;
+	margin-left: 43%;
+}
+
 p.excerpt {
 	clear: both;
 	text-align: left;
 	font-size: 18px;
 	line-height: 1.8;
 	padding: 0 25px 0 35px;
-	text-indent: 40px;
+	text-indent: 50px;
 }
 
-.read_more {
-	clear: both; 
-	display: inline-block;
-	margin: auto;
-	margin-left: 40%;
+img#recall {
+	clear: both;
+	width: 500px;
+	margin-left: 8%;
+	margin-right: 8%;
 	margin-bottom: 5%;
+}
+
+img#enjoyment {
+	clear: both;
+	width: 500px;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-bottom: 5%;
+}
+
+img#importance {
+	clear: both;
+	width: 500px;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-bottom: 5%;
+}
+
+img#adchoice {
+	clear: both;
+	width: 300px;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 5%;
+	padding: 5px 5px 5px 5px;
 }

@@ -9,7 +9,7 @@ def count_words(url):
     print "Processing", title
 
     total_words = 0
-    poop_list = []
+    wordcomment_list = []
     for entry in feed.entries:
         print "---------> ", entry.title
         text = bs4.BeautifulSoup(entry.content[0].value)
@@ -18,7 +18,7 @@ def count_words(url):
         poop_list.append((word_count, comment_count))
     print "\n"
 
-    return title, poop_list
+    return title, wordcomment_list
 
 
 

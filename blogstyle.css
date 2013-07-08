@@ -73,7 +73,7 @@ header {
 }
 
 #bracket-left, #bracket-right {
-	font-size: 110px;
+	font-size: 130px;
 	line-height: 70px;
 	height: 80px;
 	display: block;
@@ -85,13 +85,13 @@ header {
 #bracket-left {
 	float: left;
 	margin-left: 20%;
-	margin-top: -75px;
+	margin-top: -50px;
 }
 
 #bracket-right {
 	float: right;
 	margin-right: 20%;
-	margin-top: -75px;
+	margin-top: -50px;
 }
 
 ul li {
@@ -106,7 +106,7 @@ ol, ul {
 
 a#home {
 	text-decoration: none;
-	font-size: 25px;
+	font-size: 20px;
 	color: #B0C4DE;
 }
 

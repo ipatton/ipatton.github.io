@@ -191,15 +191,31 @@ aside {
 	padding-top: 30px;
 }
 
+div.author p {
+	clear: both;
+	display: inline-block;
+	margin-left: 41.89%;
+	margin-right: 38%;
+	padding: 7px;
+	font-size: 15px;
+}
+
 #post-1.post {
 	line-height: 20px;
 	margin: 20px 170px 30px 170px;
 	background-color: whitesmoke;
 	opacity: .87;
 	border-radius: 20px;
-
-
 }
+
+#post-2.post {
+	line-height: 20px;
+	margin: 20px 170px 30px 170px;
+	background-color: whitesmoke;
+	opacity: .87;
+	border-radius: 20px;
+}
+
 h5.title {
 	padding: 20px 20px 20px 20px;
 	clear: both;
@@ -207,8 +223,9 @@ h5.title {
 	line-height: 2;
 	text-align: center;
 	font-size: 150%;
-	color: #4682B4;
+	color: #800000;
 }
+
 #content img {
 	width: 180px;
 	display: inline-block;
@@ -248,4 +265,21 @@ p.excerpt {
 	margin: auto;
 	margin-left: 40%;
 	margin-bottom: 5%;
+}
+
+img#colorfulness {
+	clear: both;
+	width: 600px;
+	height: 230px;
+	display: inline-block;
+	float: left;
+	border: 1px solid #bdbdbd;
+	margin: auto;
+	margin-top: 5%;
+	margin-right: 1%;
+	margin-left: 5.9%;
+	background-color: white;
+	border-radius: 15px;
+	overflow: hidden;
+	white-space: normal;
 }

@@ -94,6 +94,26 @@ header {
 	margin-top: -75px;
 }
 
+ul li {
+	position: relative;
+	display: inline-block;
+	text-align: center;
+}
+
+ol, ul {
+	margin-left: 46.3%;
+}
+
+a#home {
+	text-decoration: none;
+	font-size: 25px;
+	color: #B0C4DE;
+}
+
+a#home:hover {
+	color: #4682B4;
+}
+
 p {
 	font-size:22px;
 	line-height:1.1em;

@@ -72,6 +72,37 @@ header {
 	height:70px;
 }
 
+ul li {
+	position: relative;
+	display: inline-block;
+	text-align: center;
+}
+
+ol, ul {
+	margin-left: 43%;
+}
+
+a#home {
+	text-decoration: none;
+	font-size: 25px;
+	color: #B0C4DE;
+}
+
+a#blog {
+	text-decoration: none;
+	margin-left: 30%;
+	font-size: 25px;
+	color: #B0C4DE;
+}
+
+a#home:hover {
+	color: #4682B4;
+}
+
+a#blog:hover {
+	color: #4682B4;
+}
+
 p {
 	font-size:22px;
 	line-height:1.1em;

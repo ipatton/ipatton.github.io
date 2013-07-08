@@ -210,3 +210,7 @@ img#adchoice {
 	margin-bottom: 5%;
 	padding: 5px 5px 5px 5px;
 }
+
+tbody {
+	margin-left: 20%;
+}

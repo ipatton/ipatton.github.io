@@ -85,13 +85,13 @@ header {
 #bracket-left {
 	float: left;
 	margin-left: 20%;
-	margin-top: -50px;
+	margin-top: -150px;
 }
 
 #bracket-right {
 	float: right;
 	margin-right: 20%;
-	margin-top: -50px;
+	margin-top: -150px;
 }
 
 ul li {
@@ -101,7 +101,7 @@ ul li {
 }
 
 ol, ul {
-	margin-left: 46.3%;
+	margin-left: 46.9%;
 }
 
 a#home {
@@ -158,9 +158,9 @@ h2{
 
 h3 {
 	text-align: center;
-	color: #4682B4;
+	color: #000080;
 	border: none;
-	font-size: 22px;
+	font-size: 18px;
 	margin-left: 25%;
 	margin-right: 25%;
 }

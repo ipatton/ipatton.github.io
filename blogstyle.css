@@ -85,13 +85,13 @@ header {
 #bracket-left {
 	float: left;
 	margin-left: 20%;
-	margin-top: -100px;
+	margin-top: -85px;
 }
 
 #bracket-right {
 	float: right;
 	margin-right: 20%;
-	margin-top: -100px;
+	margin-top: -85px;
 }
 
 ul li {

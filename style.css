@@ -73,7 +73,15 @@ body {
 }
 
 #content img {
-	opacity: 0.6;
+	opacity: .8;
+	clear: both;
+	margin-left: 30%;
+	border-radius: 10px;
+	width: 40%;
+}
+
+#content img:hover {
+	opacity: 1;
 	clear: both;
 	margin-left: 30%;
 	border-radius: 10px;
@@ -85,7 +93,7 @@ header {
 }
 
 #bracket-left, #bracket-right {
-	font-size: 110px;
+	font-size: 400px;
 	line-height: 70px;
 	height: 80px;
 	display: block;
@@ -96,14 +104,14 @@ header {
 
 #bracket-left {
 	float: left;
-	margin-left: 20%;
-	margin-top: -45px;
+	margin-left: 10%;
+	margin-top: -350px;
 }
 
 #bracket-right {
 	float: right;
-	margin-right: 20%;
-	margin-top: -45px;
+	margin-right: 10%;
+	margin-top: -350px;
 }
 
 p {
@@ -163,6 +171,15 @@ h4 {
 	margin-right: 25%;
 }
 
+h5 {
+	text-align: center;
+	color: #4682B4;
+	border: none;
+	font-size: 18px;
+	margin-left: 26%;
+	margin-right: 26%;
+}
+
 li {
 	list-style: none;
 }
@@ -185,6 +202,11 @@ a:hover {
 	color: #00008B;
 }
 
+#network {
+	margin-left: 41%;
+	margin-right: 41%;
+}
+
 header ul li {
 	float:right;
 	padding-left: 30px;
@@ -203,11 +225,4 @@ footer ul li {
 	margin-bottom: 20px;
 	clear: both; 
 	overflow: hidden;
-}
-
-
-aside {
-	width: 400px;
-	float:right;
-	margin-top: 50px;
 }
